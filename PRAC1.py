@@ -1,7 +1,8 @@
+#!/usr/bin/env python3
+
 import os
 import requests
 import json
-from json.decoder import JSONDecodeError
 from bs4 import BeautifulSoup
 import csv
 import pandas as pd
