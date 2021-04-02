@@ -76,4 +76,6 @@ print_grades()
 g_min = str(input('Enter minimum climbing level: '))
 g_max = str(input('Enter maximum climbing level: '))
 
-my_routes(location, g_min, g_max)   
+my_routes(location, g_min, g_max)
+
+print('Your file has been created and saved correctly.')
