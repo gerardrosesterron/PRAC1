@@ -81,6 +81,8 @@ def my_routes(area, grade_min, grade_max):
     
     
    #Executem les funcions:
+   #Per obenir el joc de dades que volem l'usuari haurà d'introduir '315' com indentificador de la zona d'Estocolm. 
+   #'100' com a nivell minim d'escalada i '1500' com a nivell màxim d'escalada.
 print_areas()
 location = str(input('Enter area_id: '))
 
