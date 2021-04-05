@@ -1,0 +1,1531 @@
+id,name,genre,grade_int,rating,ascents_done_count,overhang,vertical,slab,crag_name
+205702,Pegleg,Boulder,450,3.0,1,0.0,0.0,1.0,Harberget
+45990,Pussel utan bitar,Partially bolted,600,3.0,1,0.0,0.0,1.0,Träskberget
+45949,Uncle Ted,Sport,1000,3.0,1,1.0,0.0,0.0,Noret
+294593,Silly Attitude,Sport,900,3.0,5,1.0,0.0,0.0,Finnsvedsberget
+235958,I Scottlinjen,Sport,1150,3.0,4,1.0,0.0,0.0,Dyviksudd
+315048,Kapten Luhr (Dyviksudd),Partially bolted,950,3.0,1,1.0,0.0,1.0,Dyviksudd
+313491,Heroes for one day,Sport,1000,3.0,1,1.0,0.0,0.0,Dyviksudd
+71255,Fantasia,Sport,900,2.6,10,1.0,0.0,0.0,Dyviksudd
+49943,Papillon,Sport,1000,2.5714,14,1.0,0.0,0.0,Örnberget
+98563,Casino,Boulder,850,2.5,2,0.0,1.0,0.0,"Ekholmsnäs, Stockholm"
+124027,Shift/control,Partially bolted,600,2.5,2,0.0,1.0,0.0,Gritstoneberget
+90549,Svettiga grisen variant,Traditional,550,2.5,2,0.0,0.0,1.0,Gritstoneberget
+49886,Paradoxal exkursion,Sport,850,2.5,2,0.0,0.0,1.0,Ekoberget
+205700,Dust devil,Boulder,500,2.5,2,0.0,0.0,1.0,Harberget
+29520,Mr Magister,Sport,1000,2.3846,26,1.0,0.0,0.0,Dödskalleberget
+39598,Kilroy,Traditional,950,2.3333,6,1.0,0.0,0.0,Dyviksudd
+147112,Skogsorm,Sport,850,2.25,4,0.0,1.0,0.0,Sjötorpsberget
+61566,Blinddate,Sport,950,2.2,5,1.0,0.0,0.0,Fredriksvik
+301419,La onda,Sport,850,2.1667,6,1.0,0.0,0.0,Dyviksudd
+41924,Puls,Sport,950,2.1304,23,1.0,0.0,0.0,Skevik
+21187,Holidays in Eden,Sport,950,2.125,25,1.0,0.0,0.0,Dödskalleberget
+314164,La Verdonesque,Sport,700,2.0,2,0.0,1.0,1.0,Dyviksudd
+47218,Jinx,Partially bolted,550,2.0,2,0.0,0.0,1.0,Gritstoneberget
+283881,Trippad direkt,Sport,750,2.0,4,0.0,1.0,0.0,Älvnäs
+45940,999 luftballonger,Sport,950,2.0,1,0.0,1.0,1.0,Noret
+149014,Bök och stök,Sport,900,2.0,1,1.0,0.0,0.0,Uddeuddberget
+90551,Tveksamma trender,Partially bolted,600,2.0,1,0.0,0.0,1.0,Gritstoneberget
+46008,Full fart mot döden,Sport,900,2.0,2,1.0,0.0,0.0,Träskberget
+38544,Mio,Sport,850,2.0,66,1.0,0.0,0.0,Dödskalleberget
+79889,Släktmiddagsångest,Sport,650,2.0,2,0.0,0.0,1.0,Dödskalleberget
+90554,Tvivelaktiga tendenser,Traditional,500,2.0,1,0.0,0.0,1.0,Gritstoneberget
+49912,Matrix,Sport,950,2.0,1,1.0,0.0,0.0,Finnsvedsberget
+77227,Let there be rock,Sport,900,2.0,1,1.0,0.0,1.0,Skevik
+56751,Hemorrojdführer,Traditional,450,2.0,9,0.0,1.0,0.0,Klövberget
+27391,El Gringo,Sport,900,2.0,1,1.0,0.0,0.0,Kyrkviksklippan
+169175,Human Torch,Sport,950,2.0,14,1.0,0.0,0.0,Dyviksudd
+49952,I stället för Lidingöloppet,Traditional,600,2.0,1,0.0,1.0,0.0,Örnberget
+57083,Iskallt,Sport,900,2.0,1,1.0,0.0,0.0,Flaten
+97573,Kryssa,Sport,900,2.0,1,1.0,0.0,0.0,Sjötorpsberget
+269538,Kungsleden,Sport,1150,2.0,1,1.0,0.0,0.0,Dyviksudd
+246164,The bug,Boulder,450,2.0,2,0.0,0.0,1.0,Harberget
+216469,Rock hugging is a thing!,Boulder,450,2.0,1,0.0,1.0,1.0,Harberget
+82114,En månad av frihet,Sport,900,2.0,4,1.0,0.0,0.0,Törnskogsklippan
+205701,Crashpad not inclueded,Boulder,300,2.0,1,0.0,0.0,1.0,Harberget
+216468,Bulldog valen,Boulder,400,2.0,1,1.0,0.0,1.0,Harberget
+75582,Bortbred,Traditional,600,2.0,3,1.0,0.0,0.0,Solberget
+90251,Shangri-La direkt,Traditional,600,2.0,2,0.0,1.0,0.0,Klövberget
+306371,Fredsmäklaren (with aid-start),Sport,850,2.0,1,1.0,0.0,1.0,Dyviksudd
+43184,Kvinnofällan,Sport,900,2.0,1,1.0,0.0,0.0,Finnsvedsberget
+259992,Warm up,Sport,600,2.0,2,1.0,0.0,0.0,Brakmaren
+21170,Kosmos kid,Sport,950,1.96,25,1.0,0.0,0.0,Dyviksudd
+27565,Tintin,Sport,950,1.9375,16,1.0,0.0,0.0,Finnsvedsberget
+254987,Jazzman,Sport,650,1.875,8,0.0,1.0,0.0,Uddeuddberget
+58301,Lord Hård,Traditional,850,1.8,5,1.0,1.0,0.0,Dyviksudd
+41919,I have a dream,Sport,1000,1.8,15,1.0,0.0,0.0,Sjötorpsberget
+114401,Hälsa hem,Sport,850,1.8,5,1.0,0.0,0.0,Finnsvedsberget
+38558,Mr Walker (short version),Sport,900,1.7813,33,1.0,0.0,0.0,Dödskalleberget
+39224,Siddharta,Sport,900,1.75,76,1.0,0.0,0.0,Örnberget
+214342,Old school,Sport,800,1.75,4,1.0,0.0,0.0,Uddeuddberget
+90250,Shangri-La,Traditional,450,1.75,4,0.0,1.0,1.0,Klövberget
+29517,Largo,Sport,1000,1.75,4,1.0,0.0,0.0,Träskberget
+68719,Skamvrån,Traditional,275,1.7222,18,0.0,1.0,0.0,Klövberget
+22702,Anomalocaris,Sport,700,1.7222,54,1.0,1.0,0.0,Ekoberget
+214260,Festen har börjat,Sport,900,1.7143,7,1.0,0.0,1.0,Dyviksudd
+216837,Asko,Sport,850,1.6667,3,1.0,0.0,0.0,Finnsvedsberget
+47245,Swing it magistern,Traditional,450,1.6667,3,0.0,0.0,1.0,Uddeuddberget
+45994,Tattoo,Traditional,400,1.6667,3,0.0,0.0,1.0,Träskberget
+214341,Jazzman direkt,Sport,650,1.6667,3,1.0,1.0,0.0,Uddeuddberget
+149696,Renässans,Sport,650,1.6078,51,0.0,1.0,0.0,Dyviksudd
+45982,Sahara,Sport,1000,1.6,5,1.0,0.0,0.0,Saharaväggen
+193932,Maja,Traditional,400,1.6,5,0.0,1.0,1.0,Dyviksudd
+43922,På lätta fötter/Total kollaps,Traditional,450,1.6,5,0.0,0.0,1.0,Klövberget
+300314,Ursprunget,Sport,650,1.6,50,1.0,0.0,0.0,Henriksdal
+44253,Cowboys on Acid,Sport,900,1.5455,11,0.0,1.0,0.0,Örnberget
+41939,Salt Sill,Sport,900,1.5294,17,1.0,0.0,0.0,Finnsvedsberget
+38547,Diana,Sport,600,1.5286,70,0.0,0.0,1.0,Dödskalleberget
+126958,Drakkar höger,Sport,650,1.5,2,1.0,0.0,0.0,Henriksdal
+77226,Den ofullbordade,Traditional,600,1.5,2,1.0,0.0,0.0,Skevik
+216467,Getost i en rullstol,Boulder,300,1.5,2,1.0,0.0,0.0,Harberget
+214068,Waves,Sport,650,1.5,14,0.0,1.0,0.0,Dyviksudd
+44241,Stairway to heaven,Sport,1050,1.5,6,1.0,0.0,0.0,Örnberget
+316580,Helvites Dynamo,Sport,650,1.5,2,1.0,0.0,0.0,Träskberget
+41821,Jamdomsprovet,Traditional,700,1.5,2,1.0,0.0,0.0,Noret
+174254,Idiotsprickan,Traditional,400,1.5,2,0.0,1.0,0.0,Häggsta
+300288,Dior,Sport,800,1.5,2,1.0,0.0,0.0,Henriksdal
+51362,Stortorsk,Sport,950,1.5,2,1.0,0.0,0.0,Finnsvedsberget
+57112,Highway from hell,Sport,900,1.5,2,1.0,0.0,0.0,Flaten
+245786,Blod eller guld,Traditional,500,1.5,2,0.0,0.0,1.0,Träskberget
+27455,Zorro,Sport,1000,1.5,8,1.0,0.0,0.0,Dyviksudd
+38553,Dragos,Sport,900,1.4737,19,0.0,1.0,0.0,Dödskalleberget
+158315,Grodan Boll original,Sport,750,1.4286,14,0.0,0.0,1.0,Örnberget
+57621,Le Chiffre,Sport,1000,1.4167,12,1.0,0.0,0.0,Träskberget
+38557,Diana direkt,Sport,800,1.4,10,0.0,1.0,0.0,Dödskalleberget
+56743,Goddag yxskaft,Traditional,750,1.4,5,1.0,1.0,0.0,Dyviksudd
+43925,Svettiga grisen,Traditional,400,1.4,10,0.0,0.0,1.0,Gritstoneberget
+39242,Snövitt,Sport,700,1.3929,28,0.0,1.0,0.0,Älvnäs
+38559,Fantomen,Sport,900,1.3889,19,0.0,1.0,0.0,Dödskalleberget
+41160,I'll be back,Sport,1000,1.3889,18,1.0,0.0,0.0,Örnberget
+57084,Rammstein,Sport,900,1.375,8,1.0,0.0,0.0,Flaten
+41937,Älska mig,Sport,850,1.3721,43,0.0,1.0,0.0,Örnberget
+45980,Result redan i dag,Sport,750,1.3636,11,1.0,0.0,0.0,Saharaväggen
+49891,Breña,Sport,850,1.3571,14,0.0,1.0,0.0,Ekoberget
+96494,Sonny’s crack,Traditional,400,1.3529,17,0.0,0.0,1.0,Träskberget
+35187,Himmler,Sport,700,1.3418,79,1.0,0.0,1.0,Gåseborg
+74684,På vårkanten,Sport,800,1.3333,12,1.0,0.0,0.0,Sjötorpsberget
+49926,Svarta änkan,Sport,950,1.3333,6,0.0,0.0,1.0,Örnberget
+29518,Dödligt Möte,Sport,1000,1.3333,21,1.0,0.0,0.0,Örnberget
+289811,Arêten,Sport,900,1.3333,3,1.0,0.0,0.0,Flaten
+171484,Hamlet,Partially bolted,700,1.3333,3,1.0,0.0,0.0,Skevik
+148112,Utan pardon,Sport,800,1.3333,12,0.0,1.0,1.0,Dyviksudd
+65727,Chippad av staten,Sport,750,1.3333,27,1.0,0.0,0.0,Törnskogsklippan
+297658,"Uti det fria, sportvariant",Sport,850,1.3333,3,1.0,0.0,0.0,Dyviksudd
+12160,Tabu,Sport,800,1.3163,100,1.0,0.0,0.0,Skevik
+29521,Tintin Direkt,Sport,950,1.3158,19,1.0,0.0,0.0,Finnsvedsberget
+41921,Sumitomo,Sport,950,1.3158,19,1.0,0.0,1.0,Flaten
+149699,Tyresö Express,Sport,650,1.3056,36,1.0,0.0,1.0,Dyviksudd
+39220,Kojak,Sport,950,1.2963,27,1.0,0.0,0.0,Flaten
+43197,Freaky Deaky direkt ,Sport,800,1.2881,59,1.0,0.0,0.0,Nacka Kvarn
+39597,Reptilen,Sport,950,1.2857,7,1.0,0.0,0.0,Dyviksudd
+27566,Kattöga,Sport,850,1.2857,14,1.0,0.0,0.0,Finnsvedsberget
+21173,Rakt på sak,Sport,850,1.2676,71,1.0,0.0,0.0,Örnberget
+28696,Megadans,Sport,900,1.2603,73,1.0,0.0,0.0,Skevik
+47217,No exit,Traditional,400,1.25,4,0.0,0.0,1.0,Gritstoneberget
+48793,Bengts bultspricka,Traditional,650,1.25,4,1.0,0.0,0.0,Häggsta
+26876,Drive in,Sport,550,1.25,8,1.0,0.0,1.0,Anneberg
+42278,Finnkampen,Sport,800,1.25,4,1.0,0.0,0.0,Finnsvedsberget
+45981,Sträckolin,Sport,900,1.25,12,1.0,0.0,0.0,Saharaväggen
+292612,Fläsket brinner,Sport,550,1.25,8,0.0,0.0,1.0,Träskberget
+300306,Drakkar,Sport,750,1.25,4,1.0,0.0,0.0,Henriksdal
+57079,Mickes 30-årsfest,Sport,1050,1.25,8,1.0,0.0,0.0,Flaten
+42277,Hookabam,Sport,800,1.2353,17,1.0,0.0,0.0,Saharaväggen
+42308,Curry corner,Sport,700,1.2308,13,1.0,0.0,0.0,Saharaväggen
+41922,Hallucogenia,Sport,950,1.2143,14,1.0,0.0,0.0,Ekoberget
+90253,Pers spricka,Traditional,380,1.2,5,0.0,0.0,1.0,Klövberget
+300295,Armani höger,Sport,750,1.2,5,1.0,0.0,0.0,Henriksdal
+57088,Okändis 2,Sport,400,1.1828,93,0.0,1.0,0.0,Flaten
+37200,Silicon valley,Sport,600,1.1818,55,0.0,1.0,0.0,Skevik
+22703,Eldonia,Sport,850,1.1786,28,1.0,0.0,0.0,Ekoberget
+21219,Luftslottet direkt,Sport,650,1.1709,158,1.0,0.0,0.0,Skevik
+39769,Captain Cook,Sport,750,1.1667,6,0.0,0.0,1.0,Dyviksudd
+39231,Utan Smör,Sport,800,1.1548,85,1.0,0.0,0.0,Örnberget
+12155,Orup,Sport,800,1.1449,138,1.0,0.0,0.0,Örnberget
+99072,Fyrsprickan,Traditional,450,1.1429,7,1.0,0.0,0.0,Häggsta
+26866,Ge kärleken en chans,Sport,950,1.1364,22,1.0,0.0,0.0,Anneberg
+21931,Non Stop,Sport,800,1.1341,83,1.0,0.0,0.0,Skevik
+45993,Filosofens spricka,Traditional,400,1.125,8,0.0,0.0,1.0,Träskberget
+77305,Casall,Sport,800,1.12,25,1.0,0.0,0.0,Sjötorpsberget
+51203,Fobi,Sport,800,1.1111,9,0.0,1.0,0.0,Skevik
+289216,Evolution,Sport,550,1.1,10,0.0,1.0,0.0,Ekoberget
+42290,Tirpitz,Sport,750,1.1,20,0.0,1.0,0.0,Gåseborg
+43211,Vox Populi,Sport,750,1.0833,12,1.0,0.0,0.0,Träskberget
+245424,On Stage,Sport,400,1.0833,12,0.0,1.0,0.0,Kanalklippan
+45978,Speedball,Sport,650,1.0769,13,1.0,0.0,1.0,Saharaväggen
+45927,Hem ljuva hem,Sport,800,1.0769,13,1.0,0.0,0.0,Noret
+41929,Agent Luhr ser rött,Sport,900,1.0769,13,0.0,1.0,0.0,Noret
+12162,Icones,Sport,650,1.0606,132,1.0,0.0,0.0,Skevik
+42330,Titta vi flyger,Sport,700,1.0581,86,1.0,0.0,0.0,Flaten
+74294,Kalaspuffen,Sport,650,1.0526,19,1.0,0.0,0.0,Sjötorpsberget
+39223,Utan tvekan,Sport,900,1.0476,42,1.0,0.0,0.0,Örnberget
+96485,Mr Wint,Sport,900,1.04,25,1.0,0.0,0.0,Träskberget
+38552,Asers Arête,Sport,600,1.0294,68,0.0,1.0,0.0,Dödskalleberget
+41969,Nattskiftet,Sport,800,1.025,40,1.0,0.0,0.0,Örnberget
+26870,Pausfågel,Traditional,300,1.0,1,1.0,0.0,0.0,Anneberg
+68113,Piggsvinet,Sport,400,1.0,1,0.0,0.0,1.0,Beatelund
+57077,Clouseau,Sport,1100,1.0,10,1.0,0.0,0.0,Flaten
+27384,Oz,Sport,950,1.0,1,1.0,0.0,0.0,Kyrkviksklippan
+57081,Balla brallan,Sport,750,1.0,2,1.0,0.0,0.0,Flaten
+153039,Cabrones,Partially bolted,380,1.0,2,0.0,0.0,1.0,Beatelund
+28694,Huvudleden,Traditional,650,1.0,10,1.0,0.0,0.0,Skevik
+128370,Ekstubbe airlines,Sport,500,1.0,1,1.0,0.0,0.0,Ekstubbeberget
+147261,Mamma mia,Partially bolted,850,1.0,1,1.0,1.0,0.0,Dyviksudd
+42257,Häng loss,Sport,850,1.0,2,1.0,0.0,0.0,Sjötorpsberget
+44251,Kattresan ,Sport,900,1.0,14,1.0,0.0,0.0,Skevik
+28690,Atlantis,Sport,750,1.0,55,1.0,0.0,0.0,Skevik
+44226,Bender,Sport,800,1.0,4,0.0,1.0,0.0,Älvnäs
+49905,Fruktans fötter,Sport,700,1.0,3,1.0,0.0,1.0,Ekoberget
+71254,Freedonia,Traditional,800,1.0,1,1.0,0.0,0.0,Dyviksudd
+108234,Vårkåt vänsterutsteg,Sport,600,1.0,11,0.0,1.0,0.0,Ekoberget
+77308,Analterror,Sport,850,1.0,1,1.0,0.0,1.0,Sjötorpsberget
+309338,Guerilla gardener,Sport,500,1.0,2,1.0,0.0,0.0,Finnsvedsberget
+57114,Hells Angels,Sport,900,1.0,2,1.0,0.0,0.0,Flaten
+126992,Via Aqua,Traditional,550,1.0,2,0.0,1.0,0.0,Skevik
+26864,Pilgrim,Sport,1050,1.0,2,1.0,0.0,0.0,Anneberg
+126943,Ångbåtsblues,Sport,850,1.0,1,1.0,0.0,0.0,Münchenbryggeriet
+149343,"Vrålfinger, direktinsteg",Sport,750,1.0,16,0.0,1.0,0.0,Skevik
+160392,Resa till natten ände,Sport,750,1.0,2,0.0,1.0,0.0,Skevik
+49921,Draget,Sport,850,1.0,2,1.0,0.0,0.0,Finnsvedsberget
+241409,Kort och avig,Traditional,400,1.0,1,0.0,1.0,0.0,Gåseborg
+46215,Stormvarning,Sport,600,1.0,5,0.0,1.0,0.0,Kanalklippan
+29438,Den maskerade smiskaren,Sport,600,1.0,6,1.0,0.0,1.0,Beatelund
+77306,Rövsvett,Sport,600,1.0,7,1.0,0.0,1.0,Sjötorpsberget
+19813,Ormbunken,Sport,550,1.0,8,1.0,0.0,0.0,Finnsvedsberget
+303512,Nattugglan second pitch,Sport,400,1.0,1,0.0,0.0,1.0,Ekoberget
+278637,Snåljåpen,Sport,700,1.0,5,0.0,1.0,0.0,Saharaväggen
+169182,Kilroy Alternative,Traditional,950,1.0,1,1.0,0.0,0.0,Dyviksudd
+96481,Stenhårde Kalle,Sport,900,1.0,2,1.0,0.0,0.0,Träskberget
+268460,Greenpeace,Traditional,450,1.0,1,0.0,0.0,1.0,Träskberget
+248845,Tomahawks,Traditional,380,1.0,1,0.0,0.0,1.0,Träskberget
+243887,Gör det bara,Traditional,400,1.0,9,0.0,0.0,1.0,Träskberget
+120870,Oktoberfesten,Traditional,300,1.0,7,0.0,0.0,1.0,Träskberget
+98044,Karisma Gourmet (Skitafull med tunnbrödsrulle),Partially bolted,650,1.0,1,1.0,0.0,0.0,Träskberget
+193930,Hörnet,Traditional,275,1.0,1,0.0,0.0,1.0,Dyviksudd
+58259,Oldfinger,Sport,1050,1.0,5,1.0,0.0,0.0,Träskberget
+41907,Änglamark,Partially bolted,650,1.0,3,0.0,1.0,0.0,Häggsta
+46013,Sista båten från Singapore,Sport,900,1.0,1,1.0,0.0,0.0,Träskberget
+49953,Loppbiten,Sport,750,1.0,3,0.0,1.0,0.0,Örnberget
+45989,Ahab,Traditional,300,1.0,12,0.0,0.0,1.0,Träskberget
+39195,Mickes Led,Sport,950,1.0,7,1.0,0.0,0.0,Träskberget
+65732,Fingers off the Foxy Lady!,Sport,750,1.0,4,1.0,0.0,0.0,Törnskogsklippan
+246911,Förlängd abnorm erektion,Sport,650,1.0,1,0.0,1.0,0.0,"Ekholmsnäs, Stockholm"
+290055,Mitt gym,Sport,800,1.0,1,1.0,0.0,0.0,Träskberget
+65313,Sjuochenhalvan,Traditional,150,1.0,6,0.0,1.0,0.0,Häggsta
+246876,Abnorm erektion,Sport,500,1.0,1,1.0,1.0,0.0,"Ekholmsnäs, Stockholm"
+316407,Mästerlotsen,Partially bolted,700,1.0,1,1.0,0.0,0.0,Gritstoneberget
+42047,Timbuktu,Sport,400,1.0,2,0.0,0.0,1.0,Noret
+205699,Senex dornium,Boulder,300,1.0,3,0.0,0.0,1.0,Harberget
+75580,Delikanten,Traditional,550,1.0,1,0.0,0.0,1.0,Solberget
+45917,Polisen,Sport,650,1.0,1,1.0,0.0,0.0,Noret
+51390,Rimliga ramar,Sport,750,1.0,1,1.0,0.0,0.0,Brakmaren
+45919,Toker,Partially bolted,450,1.0,1,0.0,0.0,1.0,Noret
+149488,Slå mig med slickepotten,Traditional,500,1.0,1,0.0,0.0,1.0,Gritstoneberget
+178658,Sexans kamin,Traditional,380,1.0,2,0.0,0.0,1.0,Häggsta
+90553,Himmel blå,Partially bolted,600,1.0,1,0.0,0.0,1.0,Gritstoneberget
+241278,Rektor Anna,Traditional,450,1.0,2,0.0,1.0,1.0,Uddeuddberget
+214355,Spinn vidare,Sport,600,1.0,1,1.0,0.0,0.0,Uddeuddberget
+214352,Tänt vare här,Sport,800,1.0,2,1.0,0.0,0.0,Uddeuddberget
+149297,Not for anyone,Sport,850,1.0,1,1.0,0.0,0.0,Uddeuddberget
+246557,Nu kan man räkna till tio på eutruskiska,Sport,600,1.0,1,1.0,0.0,0.0,Häggsta
+246909,Ribban,Sport,800,1.0,1,1.0,0.0,0.0,"Ekholmsnäs, Stockholm"
+301426,Upp till kamp,Sport,950,1.0,3,1.0,0.0,0.0,Örnberget
+314160,Monsieur Ballayr,Sport,700,1.0,1,0.0,1.0,0.0,Dyviksudd
+45816,En byrå underifrån,Traditional,300,1.0,1,0.0,0.0,1.0,Dödskalleberget
+64510,Den som tar han har,Sport,500,1.0,1,1.0,1.0,0.0,"Ekholmsnäs, Stockholm"
+29407,Linkup. Freaky - Blind,Sport,850,1.0,1,1.0,0.0,0.0,Nacka Kvarn
+300310,Ursprunget vänster,Sport,700,1.0,12,1.0,0.0,0.0,Henriksdal
+158026,Trampet av små fötter,Sport,200,1.0,2,0.0,0.0,1.0,Örnberget
+137712,Monkey Business,Traditional,450,1.0,1,0.0,0.0,1.0,Dödskalleberget
+300421,Equiboss,Sport,750,1.0,2,1.0,0.0,0.0,Henriksdal
+313492,Italo disco,Sport,650,1.0,3,0.0,0.0,1.0,Dyviksudd
+320625,Critical Metals,Sport,900,1.0,1,1.0,1.0,0.0,Dyviksudd
+64508,Sgt Pepper,Sport,650,1.0,1,0.0,1.0,0.0,"Ekholmsnäs, Stockholm"
+302406,Man in the Moon,Sport,500,1.0,1,0.0,0.0,1.0,Örnberget
+12154,Panta Rei,Sport,700,0.9899,100,1.0,0.0,0.0,Örnberget
+132289,Andreas 42 vet hur det känns,Sport,600,0.9785,93,1.0,0.0,1.0,Flaten
+19697,Soldans,Sport,650,0.9714,35,1.0,1.0,0.0,Anneberg
+12454,Sator,Sport,1000,0.9574,47,1.0,0.0,0.0,Örnberget
+39250,Kalles kaviar,Sport,600,0.9545,22,0.0,1.0,0.0,Älvnäs
+49944,Tipp topp,Sport,850,0.9524,21,1.0,0.0,0.0,Örnberget
+300457,Date,Sport,600,0.95,20,1.0,0.0,0.0,Henriksdal
+67406,Swastika,Sport,700,0.95,20,0.0,1.0,0.0,Gåseborg
+19693,Ignition,Sport,650,0.9495,100,1.0,0.0,0.0,Nacka Kvarn
+39218,Bad Boys,Sport,950,0.9487,39,1.0,0.0,0.0,Örnberget
+13597,Kojaks klubba,Sport,1000,0.9444,18,1.0,0.0,0.0,Flaten
+191985,Raka rör vänster,Sport,650,0.9444,36,1.0,0.0,0.0,Örnberget
+45818,Skriet från vildmarken,Sport,850,0.9412,17,1.0,0.0,0.0,Dödskalleberget
+15821,Pumpmaskin,Sport,750,0.9355,125,1.0,0.0,0.0,Skevik
+52028,Nescafe,Sport,650,0.9194,62,1.0,0.0,0.0,Sjötorpsberget
+212021,Ryggskottlinjen,Sport,500,0.9129999999999999,23,0.0,1.0,0.0,Dyviksudd
+252005,4 år,Traditional,300,0.9091,11,0.0,0.0,1.0,Träskberget
+74682,Dubbeltaket,Traditional,380,0.9091,11,0.0,0.0,1.0,Sjötorpsberget
+57066,Järnmannen,Sport,700,0.9048,42,1.0,1.0,0.0,Flaten
+38551,Tio tigrar,Sport,900,0.9,10,1.0,0.0,0.0,Dödskalleberget
+45826,Guran,Sport,700,0.9,20,0.0,0.0,1.0,Dödskalleberget
+300423,Fahrenheit,Sport,800,0.9,10,1.0,0.0,0.0,Henriksdal
+41942,Gobiten,Sport,850,0.8889,9,1.0,0.0,0.0,Örnberget
+58420,Arrêtera,Sport,600,0.8889,9,1.0,0.0,0.0,Skevik
+19739,Konsum,Sport,600,0.8788,66,1.0,0.0,0.0,Skevik
+41375,Yohoia,Sport,650,0.875,24,0.0,1.0,0.0,Ekoberget
+26527,Hugo,Sport,650,0.8713,102,1.0,0.0,0.0,Örnberget
+25218,Freaky deaky,Sport,800,0.8679,53,1.0,0.0,0.0,Nacka Kvarn
+44252,Ingen Vinner,Sport,900,0.8667,15,1.0,0.0,0.0,Skevik
+18784,Nubben i snöret,Sport,650,0.8667,15,0.0,1.0,0.0,Örnberget
+133627,Dörren,Sport,900,0.8571,7,1.0,0.0,0.0,Flaten
+43924,Centralpelaren,Traditional,450,0.8571,7,0.0,1.0,0.0,Skevik
+18795,Kapten Haddock,Sport,700,0.8493,74,1.0,0.0,0.0,Finnsvedsberget
+28570,Vårkåt,Sport,600,0.8472,73,0.0,1.0,0.0,Ekoberget
+93605,Stuka,Sport,750,0.8462,13,1.0,0.0,1.0,Gåseborg
+95452,Inga fler kratrar,Sport,650,0.8462,13,0.0,0.0,1.0,Gåseborg
+45985,Harpoon,Traditional,200,0.84,25,0.0,0.0,1.0,Träskberget
+43180,Edge leden,Sport,900,0.8333,6,1.0,0.0,0.0,Älvnäs
+47246,Scary Monsters,Partially bolted,500,0.8333,6,0.0,0.0,1.0,Träskberget
+97321,McCall,Sport,850,0.8333,18,1.0,0.0,0.0,Flaten
+65315,Långfredagsleden,Traditional,400,0.8333,6,0.0,1.0,0.0,Häggsta
+97319,Pusselipuss,Sport,900,0.8333,6,1.0,0.0,0.0,Träskberget
+63262,Tambora,Sport,850,0.8333,6,1.0,0.0,0.0,Törnskogsklippan
+47263,Prima Ballerina,Sport,650,0.8261,23,0.0,0.0,1.0,Ekoberget
+39232,Fasta former,Sport,800,0.8235,34,1.0,0.0,0.0,Finnsvedsberget
+42655,Ahlgrens,Sport,750,0.8182,11,1.0,0.0,0.0,Ekstubbeberget
+57070,Slick,Sport,900,0.8182,11,1.0,1.0,0.0,Flaten
+18779,Kalaspuffen direkt,Sport,750,0.8182,44,1.0,0.0,0.0,Sjötorpsberget
+65309,Direkta Fyrbulten,Traditional,200,0.8182,11,0.0,0.0,1.0,Häggsta
+56734,Snabbare än tiden,Sport,650,0.8182,11,0.0,1.0,0.0,Skevik
+65758,Finska flickan,Sport,600,0.8125,16,1.0,0.0,0.0,Sjötorpsberget
+41983,Pikaia,Sport,800,0.8,5,0.0,0.0,1.0,Ekoberget
+57072,Longstreet,Sport,950,0.8,5,1.0,0.0,0.0,Flaten
+45926,Livet är underbart,Sport,900,0.8,5,1.0,0.0,0.0,Noret
+300424,Lacoste,Sport,700,0.8,5,1.0,0.0,0.0,Henriksdal
+75425,Solleden?,Partially bolted,500,0.8,5,0.0,1.0,0.0,Solberget
+243886,Än är inte sista bulten satt på Tyresö,Partially bolted,380,0.8,15,0.0,0.0,1.0,Träskberget
+214353,Flaskdans,Sport,650,0.8,5,1.0,0.0,0.0,Uddeuddberget
+41385,Dans på kant,Sport,600,0.7917,24,1.0,0.0,0.0,Ekstubbeberget
+300445,Adidas,Sport,600,0.7895,19,1.0,0.0,0.0,Henriksdal
+19694,Totalvägra,Sport,700,0.7879,134,1.0,0.0,0.0,Nacka Kvarn
+19710,Spitfire,Sport,700,0.7831,83,1.0,0.0,1.0,Gåseborg
+42319,Sno från dom rika direkt,Sport,750,0.7778,9,1.0,0.0,0.0,Träskberget
+57093,Natten,Sport,650,0.7778,36,1.0,0.0,0.0,Flaten
+45823,Inget för pygméer,Sport,750,0.7778,9,0.0,0.0,1.0,Dödskalleberget
+191071,Upp igen,Sport,650,0.7778,9,1.0,0.0,0.0,Flaten
+42248,Vad kvinnor inte vill ha,Sport,900,0.7692,13,1.0,0.0,0.0,Noret
+57065,Premiär,Sport,800,0.7647,34,1.0,0.0,0.0,Flaten
+65145,Ghetto rebel,Sport,600,0.7647,51,1.0,1.0,0.0,Sjötorpsberget
+49950,"Blötkaken, variant på",Sport,550,0.7619,42,0.0,1.0,0.0,Örnberget
+49945,Lysande utsikter,Sport,750,0.76,25,1.0,0.0,0.0,Örnberget
+311137,Livets pussel,Sport,600,0.75,8,0.0,1.0,1.0,Dyviksudd
+64512,Sjöexpress,Sport,500,0.75,4,1.0,0.0,0.0,"Ekholmsnäs, Stockholm"
+70745,Snoopy's crack,Sport,750,0.75,4,1.0,0.0,0.0,Häggsta
+43878,Vinleden,Sport,450,0.75,4,0.0,1.0,0.0,Häggsta
+289631,Somos potitos,Sport,400,0.75,4,0.0,1.0,1.0,Träskberget
+49897,Wiwaxia,Sport,650,0.75,8,0.0,1.0,0.0,Ekoberget
+41973,Exposed,Sport,750,0.75,4,1.0,1.0,0.0,Älvnäs
+74680,Rock all over,Sport,550,0.75,8,1.0,0.0,1.0,Sjötorpsberget
+98042,På tunga grisfötter,Sport,600,0.75,4,0.0,0.0,1.0,Träskberget
+41110,Möjlig omöjlighet,Sport,750,0.75,4,0.0,1.0,0.0,Örnberget
+96480,Maskinen,Sport,700,0.75,4,1.0,0.0,0.0,Träskberget
+26865,No fuel for the pilgrims,Sport,1050,0.75,8,1.0,0.0,0.0,Anneberg
+29439,Mosarmasse,Sport,600,0.75,4,0.0,1.0,1.0,Beatelund
+245125,Johnnies Sykel,Traditional,300,0.75,4,0.0,0.0,1.0,Träskberget
+64682,Det vilda i min bur,Sport,400,0.7368,19,1.0,0.0,1.0,Häggsta
+71804,Fördomsfri,Sport,650,0.7333,15,0.0,1.0,0.0,Gåseborg
+93585,En Sak Att Göra,Sport,850,0.7333,15,1.0,0.0,0.0,Träskberget
+133679,Ha en fin flygtur,Sport,700,0.7273,11,1.0,0.0,1.0,Gåseborg
+19803,Snoken,Sport,500,0.7222,90,0.0,1.0,0.0,Noret
+75588,Utby 5an,Traditional,450,0.7143,7,0.0,1.0,0.0,Solberget
+42425,Rommel,Sport,750,0.7143,14,1.0,1.0,0.0,Gåseborg
+77307,Ransom,Sport,700,0.7143,14,1.0,0.0,0.0,Sjötorpsberget
+57113,Hell,Sport,800,0.7143,7,1.0,0.0,0.0,Flaten
+57098,Darling fascist bullyboy,Sport,650,0.7143,7,1.0,0.0,0.0,Flaten
+95864,Ronin,Sport,550,0.7143,14,0.0,0.0,1.0,Ekoberget
+39236,Bellman,Sport,750,0.7097,31,1.0,0.0,0.0,Flaten
+44238,Runda former,Sport,450,0.7059,68,1.0,0.0,1.0,Finnsvedsberget
+245124,30 är det nya 40,Sport,500,0.7059,17,0.0,0.0,1.0,Träskberget
+42252,Agaton Sax,Sport,850,0.7,10,1.0,0.0,0.0,Flaten
+252783,Pudelns kärna,Sport,300,0.7,10,0.0,0.0,1.0,Skevik
+157777,Sjukskriven,Sport,550,0.6949,59,0.0,0.0,1.0,Örnberget
+19788,Mats 29 upptäcker sin kropp,Sport,600,0.6941,85,1.0,0.0,1.0,Flaten
+157903,Kobran,Sport,550,0.6923,13,0.0,0.0,1.0,Örnberget
+82061,Nattugglan,Sport,400,0.6897,29,0.0,0.0,1.0,Ekoberget
+42324,Mowgli,Sport,700,0.6875,16,1.0,0.0,0.0,Saharaväggen
+18780,Pungsuell,Sport,700,0.6857,35,1.0,0.0,1.0,Sjötorpsberget
+19807,Brown Sugar,Sport,550,0.6694,124,1.0,0.0,0.0,Nacka Kvarn
+284507,Bultlinje,Sport,650,0.6667,6,0.0,1.0,0.0,Träskberget
+49937,Just nu,Sport,900,0.6667,6,1.0,0.0,0.0,Örnberget
+46009,Natt utan slut,Sport,900,0.6667,3,1.0,0.0,0.0,Träskberget
+57064,Pirelli,Sport,900,0.6667,3,1.0,0.0,0.0,Flaten
+250940,Lofoten nästa,Traditional,400,0.6667,3,0.0,0.0,1.0,Träskberget
+57123,Jordcirkus,Traditional,450,0.6667,9,0.0,1.0,0.0,Ekstubbeberget
+212020,Orgier på personaltoaletten,Traditional,500,0.6667,6,1.0,0.0,1.0,Dyviksudd
+200922,Fallskärmsjägare,Sport,450,0.6667,3,0.0,0.0,1.0,Örnberget
+99994,Axellux,Traditional,380,0.6667,3,0.0,0.0,1.0,Beatelund
+66885,McCloud,Sport,1100,0.6667,3,1.0,0.0,0.0,Flaten
+18788,Hundra år av ensamhet,Sport,650,0.6667,48,1.0,0.0,0.0,Nacka Kvarn
+49961,Nisse Blixt,Sport,650,0.6667,9,1.0,0.0,0.0,Örnberget
+42246,Kyss mich,Sport,950,0.6667,3,1.0,0.0,0.0,Noret
+181463,Camp Romsdal,Traditional,450,0.6667,3,0.0,1.0,0.0,Gåseborg
+49925,Grodan boll,Sport,650,0.6667,27,0.0,0.0,1.0,Örnberget
+45988,Moby Dick,Traditional,400,0.6667,3,0.0,0.0,1.0,Träskberget
+41810,Hard rock cafe,Sport,700,0.6531,49,1.0,0.0,1.0,Skevik
+41137,Terroristen,Sport,700,0.6508,64,1.0,0.0,0.0,Örnberget
+23632,Ett småkryps liv,Sport,800,0.6452,31,1.0,1.0,0.0,Noret
+131099,Go to Hell,Sport,750,0.6429,14,1.0,0.0,0.0,Flaten
+157460,Power rangers,Sport,650,0.6429,14,0.0,0.0,1.0,Örnberget
+247331,Stockholmsalpinism,Sport,275,0.6364,11,0.0,0.0,1.0,Träskberget
+42256,Liten och grym,Sport,850,0.6364,11,1.0,0.0,0.0,Flaten
+19792,Tudor,Sport,650,0.6316,38,1.0,0.0,0.0,Gåseborg
+44234,Café Opera ,Sport,650,0.625,8,1.0,1.0,0.0,Skevik
+151987,Dubbeldäckare,Sport,550,0.6222,45,0.0,1.0,1.0,Örnberget
+40440,Den breve Hugo,Sport,600,0.6176,102,1.0,0.0,0.0,Örnberget
+30115,Blitz,Sport,500,0.6171,176,1.0,0.0,0.0,Gåseborg
+29522,Baretta,Sport,1000,0.6129,31,1.0,0.0,0.0,Flaten
+19927,Flyglottan,Sport,650,0.6087,23,1.0,0.0,0.0,Gåseborg
+300264,Folkfest Direktinsteg,Sport,380,0.6071,28,1.0,0.0,0.0,Henriksdal
+21386,Fotografen har en stor apparat,Sport,450,0.604,101,0.0,0.0,1.0,Ekoberget
+63263,Krakatau,Sport,800,0.6,5,1.0,0.0,0.0,Törnskogsklippan
+41426,Längsta leden,Sport,500,0.6,30,1.0,0.0,1.0,Münchenbryggeriet
+252343,Gubbhöfter II: The glorious adventure continues,Sport,500,0.6,10,0.0,0.0,1.0,Träskberget
+169178,Drax,Sport,900,0.6,5,1.0,0.0,0.0,Dyviksudd
+49962,Gambit,Sport,600,0.6,5,1.0,0.0,0.0,Örnberget
+40608,Ft Molly nu fetare,Sport,550,0.6,5,0.0,1.0,0.0,Älvnäs
+45977,Knytkalas,Sport,800,0.6,10,1.0,0.0,0.0,Saharaväggen
+11008,Columbo,Sport,1000,0.6,25,1.0,0.0,0.0,Flaten
+19724,Ve och fasa,Sport,650,0.6,5,1.0,0.0,1.0,Anneberg
+91902,Leopard,Sport,850,0.6,5,1.0,0.0,1.0,Gåseborg
+63266,Foxy Lady,Sport,550,0.6,25,1.0,0.0,0.0,Törnskogsklippan
+65141,Bröstutställning,Sport,550,0.5968,62,1.0,0.0,0.0,Sjötorpsberget
+92399,Ahlgrens pygmeer,Sport,380,0.5882,17,0.0,0.0,1.0,Dödskalleberget
+57108,Två krux,Sport,600,0.5882,34,0.0,1.0,0.0,Flaten
+59965,D'evenin' showah,Traditional,200,0.5833,12,0.0,0.0,1.0,Träskberget
+56749,Candyland,Sport,400,0.5820000000000001,189,0.0,0.0,1.0,Örnberget
+124738,Blå Lotus,Sport,550,0.5778,45,0.0,0.0,1.0,Finnsvedsberget
+300271,Mördargrävlingen,Sport,600,0.5714,28,1.0,0.0,0.0,Henriksdal
+28698,Bates motel,Sport,700,0.5714,36,1.0,0.0,0.0,Skevik
+41093,Kaksi,Sport,800,0.5714,14,1.0,1.0,0.0,Noret
+45923,General,Traditional,380,0.5714,7,0.0,1.0,0.0,Noret
+93118,Namnlös,Partially bolted,400,0.5714,7,0.0,0.0,1.0,Ekoberget
+28693,Ryska fakulteten,Sport,800,0.5652,23,1.0,0.0,0.0,Skevik
+41487,Publikfriaren,Sport,400,0.5625,32,0.0,1.0,1.0,Kanalklippan
+19798,Magnesia Carbonara,Sport,600,0.56,50,0.0,1.0,0.0,Skevik
+82062,Morgonhönan,Sport,400,0.5556,9,0.0,0.0,1.0,Ekoberget
+43195,Isaxel ,Sport,800,0.5556,9,1.0,0.0,1.0,Gåseborg
+49949,Blötkaken,Sport,550,0.5556,36,0.0,1.0,0.0,Örnberget
+56750,Verklighet,Sport,600,0.5493,143,1.0,0.0,0.0,Örnberget
+62574,Plattan i mattan,Sport,650,0.5484,31,1.0,0.0,0.0,Örnberget
+21175,Voodoo,Sport,800,0.5455,33,1.0,0.0,0.0,Skevik
+41813,Imperiet,Sport,700,0.5424,60,1.0,0.0,0.0,Örnberget
+19806,Ekoturism,Sport,600,0.5397,64,0.0,0.0,1.0,Ekoberget
+19805,Babba Bitch,Sport,600,0.5385,13,1.0,0.0,1.0,Münchenbryggeriet
+19702,Land of broken dreams,Sport,650,0.5385,26,1.0,0.0,0.0,Beatelund
+40056,Sjöjungfrun,Sport,400,0.5333,30,1.0,0.0,0.0,Finnsvedsberget
+57085,Hej och hå,Sport,380,0.5333,75,0.0,1.0,0.0,Flaten
+157654,Gränslös färdsel,Sport,275,0.5313,32,0.0,0.0,1.0,Örnberget
+41486,Kanalen (till hyllan),Sport,400,0.5294,17,0.0,1.0,0.0,Kanalklippan
+49932,Don't be late,Sport,750,0.5294,17,1.0,0.0,0.0,Örnberget
+29405,Blind,Sport,900,0.5238,21,1.0,0.0,0.0,Nacka Kvarn
+42326,Aerosion,Sport,650,0.5238,21,1.0,0.0,0.0,Gåseborg
+151548,En våt överraskning,Sport,400,0.5217,69,0.0,1.0,0.0,Flaten
+19690,Partaj,Sport,700,0.5217,23,1.0,0.0,0.0,Nacka Kvarn
+42329,På gång,Sport,650,0.5192,52,1.0,0.0,0.0,Flaten
+75947,Med buken i vädret,Sport,450,0.5175,114,0.0,1.0,0.0,Örnberget
+29406,Lutande tornet,Sport,700,0.5161,32,1.0,0.0,0.0,Nacka Kvarn
+41461,Nattens väktare,Traditional,500,0.5,2,1.0,0.0,0.0,Örnberget
+245792,"Rutten tall, seg Grahn",Sport,750,0.5,2,1.0,0.0,0.0,Törnskogsklippan
+45819,Indianerna kommer,Sport,700,0.5,2,1.0,0.0,0.0,Dödskalleberget
+65312,Sjuan,Traditional,100,0.5,28,0.0,1.0,1.0,Häggsta
+226444,Adventisten,Sport,600,0.5,2,1.0,0.0,0.0,Dyviksudd
+57089,På kanten,Sport,700,0.5,2,1.0,0.0,0.0,Flaten
+19785,Ola,Sport,600,0.5,10,1.0,0.0,1.0,Kyrkviksklippan
+57097,Flugor på trumpeten,Traditional,400,0.5,18,0.0,1.0,0.0,Flaten
+47220,Stoppa in produkter,Traditional,350,0.5,2,0.0,0.0,1.0,Gritstoneberget
+74640,Stäppvargen,Traditional,300,0.5,6,0.0,0.0,1.0,Gritstoneberget
+118316,Cabragg,Sport,450,0.5,2,0.0,0.0,1.0,Beatelund
+99993,Sponken,Partially bolted,400,0.5,4,0.0,0.0,1.0,Beatelund
+51387,Knep och knåp,Sport,800,0.5,4,1.0,0.0,0.0,Brakmaren
+200905,Touching the void,Sport,600,0.5,6,0.0,0.0,1.0,Örnberget
+63195,Rose Garden,Sport,300,0.5,42,0.0,0.0,1.0,Sjötorpsberget
+57111,Helldriver,Sport,950,0.5,2,1.0,0.0,0.0,Flaten
+259983,Chutima,Sport,600,0.5,2,1.0,0.0,0.0,Brakmaren
+64511,Slacker,Traditional,500,0.5,2,0.0,0.0,1.0,"Ekholmsnäs, Stockholm"
+300425,Van Gils,Sport,750,0.5,2,1.0,0.0,0.0,Henriksdal
+44246,Ökad Sumo,Sport,1000,0.5,10,1.0,0.0,0.0,Flaten
+61133,Dagsländan,Sport,600,0.5,2,1.0,0.0,0.0,Solberget
+19708,California camping,Sport,700,0.5,6,1.0,0.0,0.0,Älvnäs
+135052,Radiostyrda bilar,Traditional,400,0.5,2,0.0,1.0,0.0,Ekstubbeberget
+57061,Purimax,Sport,750,0.5,6,1.0,0.0,0.0,Flaten
+57073,Små rosa moln,Sport,1150,0.5,4,1.0,0.0,0.0,Flaten
+126959,Boss variant,Sport,850,0.5,2,1.0,0.0,0.0,Henriksdal
+300248,Folkfest,Sport,300,0.5,22,1.0,0.0,0.0,Henriksdal
+44247,Rovdjuret,Sport,950,0.5,10,0.0,1.0,0.0,Skevik
+57106,Okändis,Sport,500,0.5,60,1.0,0.0,0.0,Flaten
+24026,Knutby,Sport,900,0.5,4,1.0,0.0,0.0,Anneberg
+57105,Massa vax,Sport,650,0.5,6,1.0,0.0,0.0,Flaten
+134657,Nyp Mig!,Sport,700,0.5,2,0.0,1.0,0.0,Törnskogsklippan
+62575,I grevens tid,Sport,750,0.5,2,0.0,1.0,0.0,Örnberget
+57075,Bond,Sport,1050,0.5,8,1.0,0.0,0.0,Flaten
+42999,Russels paradox,Traditional,600,0.5,2,1.0,1.0,0.0,Häggsta
+226443,Skola - arbete - död,Sport,650,0.5,2,1.0,0.0,0.0,Dyviksudd
+96873,Scaramanga,Sport,1000,0.5,2,1.0,0.0,0.0,Träskberget
+296090,Pickespricke,Sport,650,0.5,2,1.0,0.0,0.0,Sjötorpsberget
+137442,Broken Leeper,Traditional,400,0.5,15,0.0,1.0,0.0,Gåseborg
+19926,Buffy direkt,Sport,750,0.5,4,1.0,0.0,0.0,Nacka Kvarn
+247330,Sprickan,Traditional,300,0.5,8,0.0,0.0,1.0,Träskberget
+123516,Åskbollen,Sport,650,0.5,2,1.0,1.0,0.0,Älvnäs
+29408,Nacka kvarn,Sport,600,0.5,49,1.0,0.0,0.0,Nacka Kvarn
+169181,Green Hornet,Sport,900,0.5,2,1.0,0.0,0.0,Dyviksudd
+169292,Ödets makt,Sport,650,0.5,4,1.0,0.0,0.0,Noret
+65306,Direkta Pierre,Traditional,380,0.5,2,0.0,0.0,1.0,Häggsta
+135467,Ni gjorde det möjligt,Sport,600,0.5,8,1.0,0.0,0.0,Flaten
+41914,Rosé Complé,Sport,650,0.5,2,0.0,1.0,0.0,Dyviksudd
+147264,Inga vargar jagar mig,Traditional,850,0.5,2,1.0,0.0,0.0,Dyviksudd
+65305,Pierres travers,Traditional,300,0.5,6,0.0,0.0,1.0,Häggsta
+44240,För forna klätterfantaster,Sport,380,0.5,130,0.0,0.0,1.0,Ekoberget
+126953,Titanic,Sport,700,0.5,4,1.0,0.0,0.0,Münchenbryggeriet
+49901,Sannolikheten,Traditional,450,0.5,2,0.0,0.0,1.0,Ekoberget
+42385,Apocalyps,Traditional,550,0.5,4,0.0,1.0,0.0,Dyviksudd
+45986,Murder in reverse,Sport,300,0.5,10,0.0,0.0,1.0,Träskberget
+21220,Underarmsufo,Sport,600,0.4954,110,1.0,0.0,0.0,Örnberget
+49960,Fluxus,Sport,500,0.4894,47,1.0,0.0,0.0,Örnberget
+19704,Mr Grotesh,Sport,700,0.4839,31,1.0,0.0,0.0,Sjötorpsberget
+33481,Messerschmitt,Sport,750,0.48,25,1.0,0.0,1.0,Gåseborg
+251432,City of rocks,Sport,450,0.4762,21,1.0,0.0,0.0,Sjötorpsberget
+64684,Fyran,Traditional,275,0.4762,21,0.0,0.0,1.0,Häggsta
+21176,Nattsudd,Sport,800,0.4762,44,1.0,0.0,0.0,Skevik
+45983,Ett noll ett,Sport,600,0.4737,19,0.0,1.0,0.0,Saharaväggen
+57069,Klick,Sport,850,0.4706,17,1.0,0.0,0.0,Flaten
+43210,My Fair Lady ,Sport,750,0.4706,17,1.0,0.0,0.0,Nacka Kvarn
+91498,Crack till folket,Sport,400,0.4706,34,1.0,0.0,1.0,Noret
+157657,Sanslös yrsel,Sport,300,0.4694,49,0.0,0.0,1.0,Örnberget
+156512,Irrbloss,Sport,380,0.4638,69,0.0,0.0,1.0,Örnberget
+37194,Grands gorillas,Sport,500,0.4615,143,1.0,0.0,0.0,Örnberget
+59964,Treochenhalven,Traditional,200,0.4615,13,0.0,0.0,1.0,Häggsta
+19714,Auktion direkt,Sport,700,0.4595,37,1.0,0.0,0.0,Nacka Kvarn
+65466,Svart magi,Sport,450,0.4571,35,0.0,0.0,1.0,Noret
+156513,Karate Kid,Sport,650,0.4545,33,0.0,0.0,1.0,Örnberget
+42260,Ingen överhängande fara,Sport,750,0.4528,53,1.0,0.0,0.0,Örnberget
+67953,Ett Äckel,Sport,550,0.4444,18,0.0,0.0,1.0,Sjötorpsberget
+137515,Ny led,Sport,500,0.4444,9,0.0,0.0,1.0,Ekoberget
+124739,Resan till Ulliga bergen,Sport,450,0.4444,9,0.0,0.0,1.0,Finnsvedsberget
+42328,Turen och,Sport,650,0.4419,43,1.0,0.0,0.0,Flaten
+41905,Lätta,Sport,650,0.44,25,1.0,0.0,0.0,Örnberget
+49929,Tre pinnar,Sport,500,0.4384,73,0.0,0.0,1.0,Örnberget
+300278,Björn Borg,Sport,600,0.4375,16,1.0,0.0,0.0,Henriksdal
+70887,Fröken flak,Sport,500,0.434,53,0.0,1.0,0.0,Sjötorpsberget
+37191,Diktator,Sport,500,0.4337,83,1.0,0.0,1.0,Gåseborg
+200923,Eskapism,Sport,300,0.4286,7,0.0,0.0,1.0,Örnberget
+19834,Håll käften båtnisse,Sport,550,0.4286,14,0.0,1.0,1.0,Kanalklippan
+42251,Hog Farm,Sport,750,0.4286,14,1.0,1.0,0.0,Gåseborg
+57071,Mannen från U.N.C.L.E,Sport,1050,0.4286,7,1.0,1.0,0.0,Flaten
+45903,Diagonalen,Traditional,300,0.4286,7,0.0,0.0,1.0,Noret
+65759,Dåligt 9-månadersresultat,Sport,400,0.425,40,1.0,0.0,0.0,Sjötorpsberget
+39254,Kurtan,Sport,550,0.4211,19,0.0,1.0,0.0,Flaten
+45920,Isbiten,Sport,380,0.4189,75,0.0,0.0,1.0,Noret
+26869,Klart ball,Sport,900,0.4167,12,1.0,0.0,0.0,Anneberg
+131163,Istället för bouldering,Sport,600,0.4091,22,1.0,0.0,0.0,Törnskogsklippan
+90626,Gammelgäddan,Sport,450,0.4038,52,0.0,0.0,1.0,Dödskalleberget
+57095,Trädet,Sport,500,0.4028,72,1.0,0.0,0.0,Flaten
+57092,Våra är dessutom snyggare,Sport,500,0.4,40,1.0,0.0,0.0,Flaten
+45984,Bättre än boule,Sport,550,0.4,10,1.0,1.0,0.0,Saharaväggen
+96686,En liten Hitler,Sport,800,0.4,10,1.0,0.0,0.0,Gåseborg
+59963,Trean,Traditional,200,0.4,15,0.0,0.0,1.0,Häggsta
+119935,"Herr Dewalt, skogen och jag",Sport,550,0.4,10,1.0,0.0,0.0,Törnskogsklippan
+29440,Plonk.nu,Sport,900,0.4,5,1.0,0.0,0.0,Beatelund
+39253,Konvoj,Sport,550,0.4,21,1.0,0.0,0.0,Gåseborg
+57125,Tunna sprickan,Sport,550,0.4,15,1.0,0.0,0.0,Ekstubbeberget
+39252,Ännu en tur,Sport,600,0.4,25,1.0,0.0,0.0,Flaten
+65207,Solskensleden,Traditional,300,0.4,5,0.0,0.0,1.0,Häggsta
+205783,Cecys led,Sport,380,0.3958,48,0.0,1.0,0.0,Flaten
+206755,Granarna faller som furor,Sport,300,0.3913,23,0.0,0.0,1.0,Flaten
+59966,Ekleden,Partially bolted,100,0.3889,18,0.0,0.0,1.0,Häggsta
+40820,Pick pocket,Sport,500,0.3846,26,0.0,1.0,0.0,Kanalklippan
+70761,Ge fan i mig,Sport,750,0.3846,13,1.0,0.0,0.0,Träskberget
+96486,Mr Kidd,Sport,900,0.3846,13,1.0,0.0,0.0,Träskberget
+105025,Grov portion,Traditional,300,0.3846,13,0.0,0.0,1.0,Noret
+19707,Obelix,Sport,700,0.381,21,1.0,0.0,0.0,Nacka Kvarn
+64676,Gillis insteg,Traditional,380,0.375,8,0.0,0.0,1.0,Häggsta
+41569,Apa i bur,Sport,300,0.375,88,0.0,1.0,0.0,Kanalklippan
+57090,Kortis,Sport,550,0.375,8,1.0,0.0,0.0,Flaten
+19740,Daniellas Babygym,Sport,600,0.375,9,1.0,0.0,0.0,Älvnäs
+42304,Propaganda,Sport,700,0.3636,23,1.0,0.0,0.0,Gåseborg
+47219,Amandas lov,Traditional,200,0.3636,11,0.0,0.0,1.0,Gritstoneberget
+25697,Crimp It,Sport,900,0.3636,11,1.0,0.0,0.0,Anneberg
+123495,Salta katten,Sport,450,0.3636,11,0.0,1.0,0.0,Münchenbryggeriet
+300436,Tsar,Sport,700,0.3636,11,1.0,0.0,0.0,Henriksdal
+52027,Mr Twister,Sport,550,0.36,25,1.0,0.0,0.0,Sjötorpsberget
+40913,Fusk,Sport,500,0.3571,29,0.0,1.0,1.0,Noret
+40774,Styrman stake,Sport,500,0.3571,14,0.0,1.0,0.0,Kanalklippan
+49890,Nedkomsten,Sport,380,0.3523,88,0.0,0.0,1.0,Ekoberget
+156510,Inget kalas utan kras,Sport,300,0.3467,75,0.0,0.0,1.0,Örnberget
+91499,Oväntad linje,Sport,550,0.3462,26,0.0,1.0,0.0,Noret
+300283,ACO,Sport,500,0.3448,29,1.0,0.0,0.0,Henriksdal
+19719,Håll i dig,Sport,650,0.3448,29,1.0,0.0,0.0,Beatelund
+128303,Hög avkastning,Sport,450,0.3448,29,0.0,0.0,1.0,Ekstubbeberget
+26878,1:an,Sport,400,0.3429,35,0.0,1.0,1.0,Anneberg
+96683,Törnrosa,Sport,380,0.3393,112,0.0,0.0,1.0,Gåseborg
+90624,Ahlgrens bilar,Sport,500,0.33899999999999997,59,0.0,0.0,1.0,Dödskalleberget
+80836,Stämborgarmärket,Sport,380,0.3333,75,0.0,0.0,1.0,Ekoberget
+41974,Nya tomater,Sport,750,0.3333,3,1.0,0.0,0.0,Älvnäs
+109567,Honky Tonk Woman,Traditional,380,0.3333,3,0.0,1.0,0.0,Solberget
+75428,Mayday,Traditional,380,0.3333,3,0.0,1.0,0.0,Solberget
+45916,Morsan,Sport,700,0.3333,3,1.0,0.0,0.0,Noret
+184809,Pokemon Go,Sport,550,0.3333,18,0.0,0.0,1.0,Örnberget
+45924,Tissel tassel,Sport,500,0.3333,45,0.0,1.0,0.0,Noret
+42436,Kort och gott,Sport,500,0.3333,3,1.0,0.0,0.0,Ekstubbeberget
+73422,De vises sten,Sport,400,0.3333,3,0.0,1.0,0.0,Häggsta
+51386,499,Sport,850,0.3333,3,1.0,0.0,0.0,Brakmaren
+27381,Nöff Nöff,Sport,650,0.3333,3,1.0,0.0,0.0,Kyrkviksklippan
+107253,Långt ned i halsen,Sport,550,0.3333,3,0.0,1.0,0.0,Ekstubbeberget
+94091,Yggdrasil,Sport,600,0.3333,9,0.0,0.0,1.0,Ekoberget
+90548,Den joggande myran,Traditional,380,0.3333,3,0.0,0.0,1.0,Gritstoneberget
+45991,Ismael,Traditional,450,0.3333,3,0.0,0.0,1.0,Träskberget
+57110,T-röd,Sport,850,0.3333,3,1.0,0.0,0.0,Flaten
+51542,Direktus,Sport,900,0.3333,3,1.0,0.0,0.0,Nacka Kvarn
+97333,Ljusstrålen,Sport,800,0.3333,3,1.0,0.0,0.0,Gåseborg
+65729,Sponsrad av kapitalet,Sport,600,0.3226,31,1.0,0.0,0.0,Törnskogsklippan
+46214,Mittsund express,Sport,380,0.32,25,1.0,1.0,0.0,Kanalklippan
+57059,"Mats 29, direkt",Sport,700,0.3125,16,1.0,0.0,0.0,Flaten
+74295,Dieder,Sport,300,0.3125,48,0.0,1.0,0.0,Sjötorpsberget
+96545,Prinsen,Sport,550,0.3103,29,0.0,0.0,1.0,Gåseborg
+42438,Armar uppåt sträck,Sport,300,0.3,50,0.0,1.0,0.0,Ekstubbeberget
+146141,Wall Hall,Partially bolted,400,0.3,20,0.0,0.0,1.0,Gåseborg
+94453,Dieder,Partially bolted,450,0.3,10,0.0,0.0,1.0,Gåseborg
+21657,Miraculix,Sport,450,0.3,40,1.0,0.0,0.0,Nacka Kvarn
+45901,Medlut,Sport,400,0.2982,58,0.0,0.0,1.0,Noret
+65606,Nalle Puh,Traditional,300,0.2917,24,0.0,0.0,1.0,Örnberget
+41837,Bimbo,Sport,600,0.2857,15,0.0,1.0,0.0,Gåseborg
+40047,Ada,Sport,450,0.2857,35,1.0,0.0,1.0,Finnsvedsberget
+40535,Likstel,Sport,550,0.2857,15,0.0,1.0,0.0,Gåseborg
+57094,Ljuset,Sport,700,0.2857,21,1.0,0.0,0.0,Flaten
+43179,Hemliga vägar,Sport,900,0.2857,7,1.0,0.0,0.0,Träskberget
+99268,Rampfebern,Traditional,550,0.2857,7,0.0,1.0,0.0,Häggsta
+42437,Sprickan,Sport,400,0.2821,39,1.0,0.0,0.0,Ekstubbeberget
+144527,Bonnie,Sport,200,0.28,25,0.0,0.0,1.0,Häggsta
+272131,Rising star,Sport,500,0.2778,18,1.0,0.0,0.0,Saharaväggen
+19761,Gör mig till kung,Sport,380,0.2727,11,1.0,0.0,0.0,Finnsvedsberget
+58162,Rampen,Traditional,200,0.2727,22,0.0,0.0,1.0,Häggsta
+65728,Gäckande linjen,Sport,750,0.2667,15,1.0,0.0,0.0,Törnskogsklippan
+29409,Sjätte juni,Traditional,380,0.2667,15,1.0,0.0,0.0,Nacka Kvarn
+26879,2:an,Sport,550,0.2667,15,0.0,1.0,0.0,Anneberg
+40964,Linnea,Sport,450,0.2667,15,0.0,1.0,0.0,Münchenbryggeriet
+67330,Glöm din dröm,Sport,500,0.2549,51,1.0,0.0,0.0,Sjötorpsberget
+57107,Läsvärt,Sport,550,0.25,12,1.0,0.0,0.0,Flaten
+39259,Skicka,Sport,450,0.25,8,1.0,0.0,0.0,Älvnäs
+57074,Cannon,Sport,1050,0.25,4,1.0,0.0,0.0,Flaten
+176005,Solnedgången vänster,Traditional,300,0.25,4,0.0,1.0,0.0,Gåseborg
+57104,Massa vax direct,Sport,800,0.25,4,1.0,0.0,0.0,Flaten
+133633,Vit drake,Sport,200,0.25,24,0.0,0.0,1.0,Flaten
+18775,Bamse,Sport,800,0.25,12,1.0,0.0,0.0,Älvnäs
+43138,Fåfängligheten,Traditional,550,0.25,4,0.0,1.0,0.0,Häggsta
+184832,TNT,Sport,550,0.25,24,0.0,1.0,0.0,Örnberget
+45820,En skänk från ovan,Traditional,380,0.25,4,0.0,1.0,0.0,Dödskalleberget
+65311,Direkta Palmsöndagsleden,Traditional,100,0.25,4,0.0,0.0,1.0,Häggsta
+42431,Vesslan,Sport,500,0.25,8,1.0,0.0,0.0,Ekstubbeberget
+32284,Oturen,Sport,650,0.25,28,1.0,0.0,0.0,Flaten
+41059,Stockholm sightseeing,Sport,400,0.2381,42,0.0,1.0,0.0,Kanalklippan
+156511,Kråkan Krax,Sport,300,0.23399999999999999,47,0.0,0.0,1.0,Örnberget
+206756,Falukorvsfantasten,Sport,300,0.23399999999999999,47,0.0,0.0,1.0,Flaten
+28569,Uppkomsten,Sport,450,0.2321,56,0.0,0.0,1.0,Ekoberget
+29427,Asterix,Sport,900,0.2308,13,1.0,0.0,0.0,Nacka Kvarn
+18782,750 år,Sport,700,0.2308,13,1.0,0.0,1.0,Münchenbryggeriet
+29413,Jag ber om ursäkt och tar tillbaka min FA,Sport,100,0.2308,13,0.0,0.0,1.0,Nacka Kvarn
+42435,Skicka mer godis,Sport,380,0.2277,101,0.0,1.0,1.0,Gåseborg
+40404,Pangea,Sport,600,0.2222,18,1.0,0.0,1.0,Ekoberget
+41505,Helt galen,Sport,380,0.2222,63,0.0,1.0,0.0,Kanalklippan
+64675,Gillis platta,Traditional,275,0.2222,9,0.0,0.0,1.0,Häggsta
+58160,Direktrampen,Traditional,150,0.2222,18,0.0,0.0,1.0,Häggsta
+37188,Mylingen,Sport,500,0.2222,81,1.0,1.0,0.0,Skevik
+18787,Inget för frökenfingrar,Sport,650,0.2222,9,1.0,0.0,0.0,Ekstubbeberget
+40063,Nytursmonstret,Sport,400,0.2188,32,0.0,1.0,0.0,Münchenbryggeriet
+41111,Draken,Sport,400,0.2143,57,0.0,0.0,1.0,Gåseborg
+64673,Bilbos arête,Partially bolted,300,0.2143,28,0.0,0.0,1.0,Häggsta
+41063,Topaz,Sport,400,0.2059,34,0.0,1.0,0.0,Münchenbryggeriet
+42301,Altermaan,Sport,750,0.2,5,1.0,0.0,0.0,Noret
+96685,Tonys project,Sport,600,0.2,5,1.0,0.0,0.0,Gåseborg
+123488,Luftbro,Sport,450,0.2,5,1.0,0.0,0.0,Gåseborg
+42282,Onyx,Sport,750,0.2,10,1.0,0.0,0.0,Flaten
+300458,Samba,Sport,300,0.2,30,0.0,1.0,1.0,Henriksdal
+45922,Svåra diedret,Sport,900,0.2,5,0.0,1.0,0.0,Noret
+41497,Dumma leden,Sport,400,0.2,25,0.0,1.0,0.0,Münchenbryggeriet
+40370,Krucifix,Sport,650,0.2,10,1.0,0.0,0.0,Nacka Kvarn
+41064,Lävik,Sport,400,0.1905,42,0.0,1.0,0.0,Münchenbryggeriet
+57096,Rost i balken,Sport,450,0.1897,58,1.0,0.0,0.0,Flaten
+65317,Åttan,Traditional,100,0.1875,16,0.0,0.0,1.0,Häggsta
+63200,Dumpster Diving,Sport,550,0.1875,16,1.0,1.0,0.0,Sjötorpsberget
+152316,Stelkramp,Sport,275,0.1852,27,0.0,0.0,1.0,Flaten
+40826,Utan remmar,Sport,500,0.1818,11,1.0,0.0,1.0,Münchenbryggeriet
+182446,El Chanchito,Sport,275,0.1818,22,0.0,0.0,1.0,Skevik
+68951,Vickevire,Sport,500,0.1778,45,0.0,1.0,0.0,Gåseborg
+41512,Havsfrun,Sport,380,0.1765,34,0.0,1.0,0.0,Münchenbryggeriet
+96684,Askungen,Sport,380,0.1746,63,0.0,0.0,1.0,Gåseborg
+39258,Black Widow,Sport,450,0.1739,23,1.0,0.0,0.0,Älvnäs
+41513,Borgila,Sport,380,0.1739,46,0.0,1.0,0.0,Münchenbryggeriet
+151549,Familjeliv,Sport,400,0.1731,52,0.0,1.0,0.0,Flaten
+57063,Stonelove,Sport,1000,0.1667,6,1.0,0.0,1.0,Flaten
+100662,Sting,Sport,650,0.1667,6,1.0,0.0,0.0,Älvnäs
+123500,Tutti frutti,Sport,400,0.1667,12,0.0,1.0,0.0,Münchenbryggeriet
+64677,Lösa block direkt,Traditional,400,0.1667,6,0.0,0.0,1.0,Häggsta
+26877,Fetmans fiender,Sport,500,0.1667,18,0.0,1.0,0.0,Anneberg
+72869,Dynamo,Sport,550,0.1667,6,1.0,0.0,0.0,Gåseborg
+120842,Myrstigen,Traditional,300,0.16,25,0.0,1.0,0.0,Gåseborg
+41065,Thor,Sport,400,0.1538,26,0.0,1.0,0.0,Münchenbryggeriet
+40824,Bubbel,Sport,500,0.15,20,1.0,0.0,0.0,Münchenbryggeriet
+157656,Hutlös trängsel,Sport,500,0.1481,54,0.0,0.0,1.0,Örnberget
+176009,Högra tallen,Traditional,300,0.1429,7,0.0,0.0,1.0,Gåseborg
+49954,En tyst minut,Sport,550,0.1429,7,1.0,0.0,0.0,Örnberget
+49904,Hon var ond ond ond....,Sport,650,0.1429,7,1.0,0.0,1.0,Ekoberget
+42427,Malaco,Sport,700,0.1429,7,1.0,0.0,0.0,Ekstubbeberget
+75590,Immanuel,Sport,400,0.1429,7,0.0,1.0,1.0,Solberget
+42336,Tier,Sport,650,0.1429,7,1.0,0.0,0.0,Noret
+70187,Akilles,Sport,400,0.1364,22,1.0,0.0,0.0,Gåseborg
+26880,3:an,Sport,450,0.1351,37,0.0,1.0,0.0,Anneberg
+41491,Gelatinerad sperma,Sport,400,0.1316,38,0.0,0.0,1.0,Dödskalleberget
+58163,Nian,Traditional,150,0.1304,23,0.0,0.0,1.0,Häggsta
+41066,Detonator,Sport,400,0.125,16,1.0,0.0,0.0,Gåseborg
+70728,Köp och ...,Sport,750,0.125,16,1.0,0.0,0.0,Anneberg
+45925,"Tissel tassel, variant höger",Sport,700,0.125,8,1.0,1.0,0.0,Noret
+59962,Mater Nexus,Sport,400,0.1212,33,0.0,1.0,0.0,Münchenbryggeriet
+250957,ABKK,Sport,450,0.1111,9,0.0,1.0,0.0,Sjötorpsberget
+156515,Irrbloss (pitch 2),Sport,100,0.1111,9,0.0,0.0,1.0,Örnberget
+108332,Den svarta svanen,Sport,450,0.1111,27,0.0,0.0,1.0,Törnskogsklippan
+63277,6-stamsträdet,Traditional,200,0.1111,9,0.0,0.0,1.0,Törnskogsklippan
+100896,Spigollo rosso,Sport,300,0.1111,36,0.0,0.0,1.0,Skevik
+40064,Konstiga turen,Sport,400,0.1071,28,1.0,0.0,1.0,Münchenbryggeriet
+40773,Vi slänger dynamit på motorbåtarna,Sport,500,0.1053,19,0.0,1.0,0.0,Kanalklippan
+133634,Minimalisten,Sport,100,0.1053,19,0.0,0.0,1.0,Flaten
+97678,Impromania,Sport,450,0.1053,19,0.0,1.0,0.0,Münchenbryggeriet
+49919,Solo,Sport,400,0.1,10,1.0,0.0,0.0,Finnsvedsberget
+49948,Antons bultstege,Sport,500,0.1,30,0.0,1.0,0.0,Örnberget
+41496,Baba bitch (to the ledge),Sport,380,0.1,20,1.0,0.0,1.0,Münchenbryggeriet
+41514,Viking,Sport,380,0.0976,41,0.0,1.0,0.0,Münchenbryggeriet
+39251,Motorola,Sport,600,0.0952,21,1.0,0.0,0.0,Flaten
+104181,Havstörst,Sport,380,0.0952,42,0.0,0.0,1.0,Finnsvedsberget
+27383,Den vita ankan,Sport,400,0.0909,11,0.0,1.0,0.0,Kyrkviksklippan
+40065,Meja Madeleine,Sport,400,0.0909,22,1.0,0.0,1.0,Münchenbryggeriet
+119937,Bergsguidens ultimata utmaning,Sport,380,0.0909,11,1.0,0.0,0.0,Törnskogsklippan
+133632,Röd drake,Sport,100,0.0909,22,0.0,0.0,1.0,Flaten
+19787,Genvägen,Sport,600,0.0909,11,1.0,0.0,0.0,Flaten
+63260,Skywalker,Sport,400,0.0893,56,0.0,1.0,0.0,Törnskogsklippan
+19763,Ta mig till havet,Sport,380,0.0833,12,1.0,0.0,0.0,Finnsvedsberget
+57119,Järnsängen,Traditional,275,0.0769,13,0.0,0.0,1.0,Ekstubbeberget
+123482,Kalle Anka,Sport,400,0.0714,14,0.0,1.0,0.0,Münchenbryggeriet
+124740,Blixt och dunder,Sport,300,0.069,29,0.0,0.0,1.0,Finnsvedsberget
+63261,Röda trappan,Sport,300,0.0682,44,0.0,1.0,0.0,Törnskogsklippan
+49887,Carnivore,Traditional,200,0.0667,15,0.0,0.0,1.0,Ekoberget
+152317,Nåt på tok,Sport,450,0.0638,47,0.0,0.0,1.0,Flaten
+65730,Törn me on,Sport,380,0.0571,35,0.0,0.0,1.0,Törnskogsklippan
+64674,Gollums platta,Traditional,300,0.0556,18,0.0,0.0,1.0,Häggsta
+62758,Innan Montserrat,Sport,275,0.05,60,0.0,0.0,1.0,Gåseborg
+101437,Kill your Cocopops,Sport,200,0.0455,22,0.0,0.0,1.0,Törnskogsklippan
+39256,Hål i dig,Sport,500,0.0455,66,0.0,1.0,0.0,Skevik
+101435,Mossiga gubben,Sport,200,0.0455,22,0.0,0.0,1.0,Törnskogsklippan
+40823,Slime,Sport,500,0.0303,33,0.0,1.0,0.0,Münchenbryggeriet
+41062,Fanny,Sport,400,0.0303,33,0.0,1.0,0.0,Münchenbryggeriet
+41061,Argus,Sport,400,0.025,40,0.0,1.0,0.0,Münchenbryggeriet
+72870,Hess mot folkgrupp,Sport,450,0.0,13,0.0,1.0,0.0,Gåseborg
+39599,Tio små fingrar,Sport,950,0.0,1,1.0,0.0,0.0,Häggsta
+349908,Hahnenkamm,Partially bolted,750,0.0,0,1.0,0.0,0.0,Häggsta
+349924,Utlandsvägen,Traditional,500,0.0,0,0.0,1.0,0.0,Häggsta
+388547,Ståltråd åt grabbarna,Partially bolted,700,0.0,0,1.0,1.0,0.0,Uddeuddberget
+349928,Super 8:an,Traditional,600,0.0,0,0.0,1.0,0.0,Häggsta
+388487,Coleman,Traditional,650,0.0,0,0.0,1.0,0.0,Uddeuddberget
+349941,Münchenerplattan,Traditional,400,0.0,0,0.0,1.0,0.0,Häggsta
+388488,Spring för livet,Sport,750,0.0,0,1.0,1.0,0.0,Uddeuddberget
+388548,Dansa din djävul,Partially bolted,800,0.0,0,1.0,0.0,0.0,Uddeuddberget
+45962,Vakna upp,Sport,850,0.0,0,1.0,0.0,0.0,Noret
+45958,Great white buffalo,Sport,950,0.0,1,1.0,0.0,0.0,Noret
+45957,Snakeskin cowboys,Sport,1050,0.0,1,1.0,0.0,0.0,Noret
+45956,Ännu en ny tur i mängden,Sport,600,0.0,0,1.0,0.0,0.0,Noret
+214343,Chorea,Traditional,600,0.0,0,1.0,0.0,1.0,Uddeuddberget
+45964,Kabe,Sport,800,0.0,0,0.0,1.0,0.0,Noret
+388358,Så in i skogen,Sport,900,0.0,0,1.0,0.0,0.0,Uddeuddberget
+388549,Fuck me gently with a chainsaw,Traditional,600,0.0,0,0.0,1.0,0.0,Uddeuddberget
+388553,Sista dansen,Sport,650,0.0,0,0.0,1.0,0.0,Uddeuddberget
+388557,Flashdance,Traditional,650,0.0,0,0.0,1.0,0.0,Uddeuddberget
+388556,Talande tider,Partially bolted,750,0.0,0,0.0,1.0,0.0,Uddeuddberget
+388555,Trance dance,Traditional,600,0.0,0,0.0,1.0,0.0,Uddeuddberget
+388554,Rena rama turen,Partially bolted,800,0.0,0,0.0,1.0,0.0,Uddeuddberget
+349832,"Svärje, Svärje",Partially bolted,600,0.0,0,0.0,1.0,0.0,Häggsta
+349853,Golgata,Partially bolted,500,0.0,0,1.0,0.0,0.0,Häggsta
+349855,Nu får det vara nog,Traditional,650,0.0,0,1.0,0.0,0.0,Häggsta
+349867,Än kan gubben,Sport,850,0.0,0,1.0,0.0,0.0,Häggsta
+349903,Tessils tak,Sport,600,0.0,0,1.0,0.0,0.0,Häggsta
+349871,Steilhang,Sport,700,0.0,0,1.0,1.0,0.0,Häggsta
+349876,Scheisse ins Gesicht,Sport,600,0.0,0,0.0,1.0,0.0,Häggsta
+388551,Bad leutenant,Traditional,500,0.0,0,0.0,1.0,0.0,Uddeuddberget
+349881,Doppelmayr,Partially bolted,500,0.0,0,0.0,1.0,0.0,Häggsta
+349885,Banana split,Traditional,500,0.0,0,1.0,0.0,0.0,Häggsta
+349896,Modiga mindre män,Traditional,500,0.0,0,0.0,1.0,0.0,Häggsta
+388440,Johans insteg - Jazzman,Sport,750,0.0,0,0.0,1.0,0.0,Uddeuddberget
+349899,Dalabrigaden,Sport,800,0.0,0,1.0,0.0,0.0,Häggsta
+214346,Söndagsslav,Sport,700,0.0,0,1.0,0.0,0.0,Uddeuddberget
+214345,Night fever,Sport,550,0.0,0,0.0,1.0,0.0,Uddeuddberget
+374854,Morning walk,Sport,400,0.0,0,0.0,0.0,1.0,Uddeuddberget
+42389,Franska leden,Traditional,600,0.0,1,1.0,1.0,0.0,Häggsta
+255384,I killed Christ with my big fucking Dick - Jazzman,Sport,700,0.0,0,1.0,1.0,0.0,Uddeuddberget
+388376,Sommardans,Traditional,600,0.0,0,1.0,0.0,0.0,Uddeuddberget
+255385,Johans insteg - bolted route above,Sport,750,0.0,0,1.0,0.0,0.0,Uddeuddberget
+369223,Human behavior,Sport,600,0.0,0,1.0,1.0,0.0,Uddeuddberget
+388375,Kleine Mäusli,Traditional,400,0.0,0,0.0,1.0,0.0,Uddeuddberget
+369224,Social distancing,Sport,700,0.0,0,1.0,1.0,0.0,Uddeuddberget
+370613,Floating on a wave of sound,Sport,850,0.0,0,0.0,1.0,0.0,Uddeuddberget
+371669,No country for old men,Sport,800,0.0,0,1.0,1.0,0.0,Uddeuddberget
+41990,Lien,Traditional,700,0.0,1,0.0,1.0,0.0,Häggsta
+388360,Spenatgurun,Traditional,750,0.0,0,1.0,0.0,0.0,Uddeuddberget
+372176,What we do in the shadows,Sport,700,0.0,0,1.0,1.0,0.0,Uddeuddberget
+372533,Höjdrädd,Sport,550,0.0,0,1.0,0.0,0.0,Uddeuddberget
+388359,Bland tomtar och troll,Traditional,950,0.0,0,1.0,0.0,0.0,Uddeuddberget
+93620,Krematorium,Sport,800,0.0,5,1.0,0.0,0.0,Gåseborg
+372755,Finemang direkt,Sport,950,0.0,0,1.0,0.0,0.0,Uddeuddberget
+372948,Kreativ anarki,Sport,750,0.0,0,1.0,1.0,0.0,Uddeuddberget
+374851,Finemang,Sport,950,0.0,0,1.0,0.0,0.0,Uddeuddberget
+41812,Nagot riktigt alpint,Sport,700,0.0,2,1.0,1.0,0.0,Häggsta
+255383,Dropping acid in the combat zone,Sport,650,0.0,0,0.0,1.0,0.0,Uddeuddberget
+255382,Korsriddaren,Sport,900,0.0,0,1.0,0.0,0.0,Uddeuddberget
+255381,Skarpt läge,Sport,800,0.0,0,1.0,0.0,0.0,Uddeuddberget
+214356,Dramatik,Sport,900,0.0,0,1.0,0.0,0.0,Uddeuddberget
+41804,He-man,Sport,700,0.0,2,1.0,0.0,0.0,Häggsta
+214347,Frost flakes,Sport,650,0.0,0,1.0,0.0,0.0,Uddeuddberget
+214351,Knyck,Sport,1000,0.0,0,1.0,0.0,0.0,Uddeuddberget
+388439,I killed Christ with my big fucking Dick - Dropping acid in the combat zone,Sport,700,0.0,0,1.0,1.0,0.0,Uddeuddberget
+42390,Otroliga vaggen,Traditional,600,0.0,1,0.0,1.0,0.0,Häggsta
+45955,Vivo,Sport,800,0.0,1,1.0,0.0,0.0,Noret
+45953,Bjud upp till dans,Sport,380,0.0,4,0.0,1.0,0.0,Noret
+45952,Bernie,Sport,750,0.0,1,1.0,0.0,0.0,Noret
+388391,Dark side of the moon,Sport,950,0.0,0,1.0,0.0,0.0,Uddeuddberget
+255380,Mörkrets makter,Sport,800,0.0,0,1.0,0.0,0.0,Uddeuddberget
+388384,Bärsärk,Partially bolted,750,0.0,0,0.0,1.0,0.0,Uddeuddberget
+388381,Häl-vete,Sport,950,0.0,0,1.0,0.0,0.0,Uddeuddberget
+388379,Tänt ljus,Sport,850,0.0,0,1.0,0.0,0.0,Uddeuddberget
+349811,Termos,Partially bolted,300,0.0,0,0.0,0.0,1.0,Häggsta
+388378,Asfalt,Partially bolted,600,0.0,0,1.0,0.0,0.0,Uddeuddberget
+45951,Free for all,Sport,800,0.0,1,1.0,0.0,0.0,Noret
+45950,Just what the doctor ordered,Sport,950,0.0,0,1.0,0.0,0.0,Noret
+388377,Kung Tung,Traditional,450,0.0,0,1.0,0.0,0.0,Uddeuddberget
+312329,Böhlstark,Partially bolted,500,0.0,0,1.0,0.0,0.0,Skevik
+349570,Blåsippan,Traditional,150,0.0,0,0.0,0.0,1.0,Häggsta
+349802,Direktbulten,Traditional,380,0.0,0,0.0,0.0,1.0,Häggsta
+348612,Bealizima,Sport,1000,0.0,0,1.0,0.0,0.0,Häggsta
+246561,Den fule,Sport,600,0.0,0,1.0,0.0,0.0,Häggsta
+246562,Vad pojkar vill ha,Sport,650,0.0,0,1.0,0.0,0.0,Häggsta
+19808,Arete,Sport,600,0.0,2,0.0,0.0,1.0,Gåseborg
+308482,Gå på moln,Sport,950,0.0,0,0.0,1.0,0.0,Häggsta
+348607,Ingen vind,Sport,600,0.0,0,1.0,0.0,0.0,Häggsta
+348608,Alpinistutsteget,Traditional,275,0.0,0,0.0,1.0,0.0,Häggsta
+348609,Plåster på såren,Sport,800,0.0,0,1.0,0.0,0.0,Häggsta
+348610,I form direkt,Sport,950,0.0,0,1.0,0.0,0.0,Häggsta
+348611,I form,Sport,950,0.0,0,1.0,0.0,0.0,Häggsta
+348614,Beal,Sport,950,0.0,0,1.0,0.0,0.0,Häggsta
+348702,Idiotsprickan direkt,Partially bolted,850,0.0,0,1.0,1.0,0.0,Häggsta
+348615,800 grader,Sport,1000,0.0,0,1.0,0.0,0.0,Häggsta
+64683,Bullen,Traditional,300,0.0,3,0.0,1.0,0.0,Häggsta
+348616,Gladiatorn,Sport,900,0.0,0,1.0,0.0,0.0,Häggsta
+348617,Stabilator,Sport,800,0.0,0,1.0,0.0,0.0,Häggsta
+64679,Varappe,Traditional,200,0.0,1,0.0,0.0,1.0,Häggsta
+348693,Vardagsångest,Sport,900,0.0,0,1.0,0.0,0.0,Häggsta
+348694,Sjötakstraversen,Sport,500,0.0,0,1.0,0.0,0.0,Häggsta
+348696,Jugs,Sport,600,0.0,0,1.0,0.0,0.0,Häggsta
+348700,I spindelns nät,Sport,950,0.0,0,1.0,0.0,0.0,Häggsta
+246560,Luhrad,Sport,650,0.0,0,1.0,0.0,0.0,Häggsta
+65208,Halvmånen,Partially bolted,400,0.0,1,0.0,0.0,1.0,Häggsta
+246559,Skalla en fralla,Sport,800,0.0,0,1.0,0.0,0.0,Häggsta
+246558,Tele töisen tuntun,Sport,600,0.0,1,1.0,0.0,0.0,Häggsta
+90379,Stor dum pung,Traditional,450,0.0,0,0.0,1.0,1.0,Noret
+312333,Hale hopp,Sport,1000,0.0,0,1.0,0.0,0.0,Skevik
+65310,Palmsöndagsleden,Traditional,300,0.0,9,1.0,1.0,1.0,Häggsta
+309375,Jump,Sport,800,0.0,0,1.0,0.0,0.0,Skevik
+309374,I mörkaste Peru,Traditional,400,0.0,2,0.0,1.0,0.0,Skevik
+61149,Röda Lacket,Traditional,400,0.0,3,0.0,1.0,1.0,Noret
+312338,Hale hopp höger,Sport,1050,0.0,0,1.0,0.0,0.0,Skevik
+309373,Levande legender,Partially bolted,650,0.0,0,0.0,0.0,1.0,Skevik
+65307,Rockoko,Sport,450,0.0,1,0.0,0.0,1.0,Häggsta
+312340,Fugazi,Sport,850,0.0,0,1.0,0.0,0.0,Skevik
+309372,Knäleden,Traditional,275,0.0,0,0.0,0.0,1.0,Skevik
+144528,Gerikomplex,Traditional,300,0.0,8,0.0,0.0,1.0,Häggsta
+45969,Batman,Sport,500,0.0,0,0.0,1.0,0.0,Noret
+45968,Ernie,Sport,650,0.0,0,1.0,0.0,0.0,Noret
+180358,Jubileumsleden,Traditional,275,0.0,0,0.0,0.0,1.0,Häggsta
+228271,Sexan,Ice or Mixed,200,0.0,0,0.0,0.0,1.0,Häggsta
+312346,Bitsk,Sport,950,0.0,0,1.0,0.0,0.0,Skevik
+236142,Eliminator/Sjötaket,Traditional,1100,0.0,1,1.0,0.0,0.0,Häggsta
+45967,Hål i form,Sport,800,0.0,0,1.0,0.0,0.0,Noret
+348701,Dynamic duo,Sport,900,0.0,0,1.0,0.0,0.0,Häggsta
+348705,Fåtöljen,Traditional,300,0.0,0,0.0,1.0,0.0,Häggsta
+349789,Pierrvers,Sport,450,0.0,0,1.0,1.0,1.0,Häggsta
+169291,Alternativt insteg till Arnington road,Sport,850,0.0,0,1.0,1.0,0.0,Noret
+349504,Fyran original start,Traditional,275,0.0,0,0.0,0.0,1.0,Häggsta
+349505,Kvällsarêten,Traditional,450,0.0,0,0.0,1.0,0.0,Häggsta
+349511,Prövostenen,Traditional,380,0.0,0,0.0,0.0,1.0,Häggsta
+349513,Månskensleden,Traditional,500,0.0,0,1.0,0.0,1.0,Häggsta
+349541,Franska leden original,Partially bolted,650,0.0,0,1.0,1.0,0.0,Häggsta
+349545,Nosferatu åt vänster,Sport,800,0.0,0,1.0,1.0,0.0,Häggsta
+169290,Arnington road,Sport,800,0.0,1,1.0,0.0,0.0,Noret
+349546,Dalarambo,Sport,850,0.0,0,1.0,1.0,0.0,Häggsta
+349555,Dennis,Partially bolted,800,0.0,0,0.0,1.0,0.0,Häggsta
+349556,Umeåleden,Traditional,500,0.0,0,0.0,1.0,1.0,Häggsta
+348713,Blodige Bart,Traditional,400,0.0,0,0.0,1.0,0.0,Häggsta
+349564,Direkta Solskensleden,Traditional,400,0.0,0,0.0,0.0,1.0,Häggsta
+349567,Superdirettissiman,Traditional,450,0.0,0,0.0,0.0,1.0,Häggsta
+312331,Toshiba,Sport,800,0.0,0,1.0,0.0,0.0,Skevik
+349571,Moss diedre,Traditional,150,0.0,0,0.0,0.0,1.0,Häggsta
+349573,Oroliga väggen,Traditional,450,0.0,0,0.0,0.0,1.0,Häggsta
+43139,Häxrisset,Traditional,550,0.0,1,1.0,0.0,0.0,Häggsta
+349576,Stålfarfar,Traditional,400,0.0,0,0.0,1.0,0.0,Häggsta
+349578,Hasses utsteg,Traditional,400,0.0,0,0.0,1.0,1.0,Häggsta
+349783,Direkta Fåfängligheten,Traditional,550,0.0,0,0.0,1.0,0.0,Häggsta
+388559,Slashdance,Partially bolted,800,0.0,0,0.0,1.0,0.0,Uddeuddberget
+349486,Kosmisk asymmetri,Traditional,500,0.0,0,0.0,1.0,0.0,Häggsta
+349467,Egotripp,Traditional,650,0.0,0,1.0,0.0,0.0,Häggsta
+349464,Superhooket Kurt,Traditional,700,0.0,0,1.0,0.0,0.0,Häggsta
+348720,Tvåmansinsteget,Traditional,275,0.0,0,0.0,0.0,1.0,Häggsta
+349299,Dülfersprickan,Traditional,275,0.0,0,0.0,0.0,1.0,Häggsta
+349303,Dukat,Traditional,380,0.0,0,0.0,1.0,0.0,Häggsta
+349319,Ormens väg på hälleberget,Partially bolted,600,0.0,0,0.0,1.0,0.0,Häggsta
+349322,Newtons syntes,Traditional,400,0.0,0,1.0,0.0,0.0,Häggsta
+349326,Den onde,Partially bolted,600,0.0,0,1.0,0.0,0.0,Häggsta
+64678,Tvåan,Traditional,150,0.0,3,0.0,0.0,1.0,Häggsta
+64290,Pungsträckarleden,Traditional,150,0.0,16,0.0,0.0,1.0,Gåseborg
+349328,Den gode,Sport,650,0.0,0,1.0,0.0,0.0,Häggsta
+349336,Ultra Plus,Traditional,500,0.0,0,1.0,0.0,0.0,Häggsta
+349340,Jugs,Traditional,380,0.0,0,1.0,0.0,0.0,Häggsta
+349341,Hejartaget,Traditional,380,0.0,0,1.0,0.0,0.0,Häggsta
+349342,Alubulten,Traditional,500,0.0,0,0.0,1.0,0.0,Häggsta
+349343,En apelsin med urverk,Sport,450,0.0,0,0.0,1.0,0.0,Häggsta
+349344,Invasioner,Traditional,600,0.0,0,0.0,1.0,0.0,Häggsta
+349441,Mixed route,Partially bolted,275,0.0,0,0.0,0.0,1.0,Häggsta
+349458,Superrampen,Traditional,380,0.0,0,0.0,0.0,1.0,Häggsta
+349459,Gå på moln variant,Sport,800,0.0,0,1.0,0.0,0.0,Häggsta
+171939,Scotten i Sarajevo,Sport,1100,0.0,0,1.0,0.0,0.0,Flaten
+26862,Sälj,Sport,400,0.0,12,1.0,0.0,0.0,Anneberg
+45939,Kognitiv dissonans,Partially bolted,500,0.0,0,0.0,0.0,1.0,Noret
+388560,Får jag lov,Traditional,500,0.0,0,0.0,1.0,0.0,Uddeuddberget
+344245,Fina fisken,Sport,800,0.0,0,1.0,0.0,0.0,Tyresö flaten
+344210,Bajdynan,Traditional,300,0.0,0,1.0,0.0,0.0,Tyresö flaten
+344211,Bakomfumlaren,Sport,450,0.0,0,0.0,1.0,0.0,Tyresö flaten
+344212,Tagen i tvåan,Partially bolted,500,0.0,0,1.0,0.0,0.0,Tyresö flaten
+344213,Rännan,Traditional,200,0.0,0,1.0,1.0,0.0,Tyresö flaten
+344214,Kanelsnurran,Traditional,380,0.0,0,1.0,0.0,0.0,Tyresö flaten
+344236,Mökken,Partially bolted,400,0.0,0,0.0,1.0,0.0,Tyresö flaten
+344237,Mimmi och någon,Sport,650,0.0,0,0.0,1.0,1.0,Tyresö flaten
+344238,Karin 52:43,Sport,750,0.0,0,0.0,1.0,1.0,Tyresö flaten
+344239,Eriks solotur,Traditional,450,0.0,0,1.0,0.0,0.0,Tyresö flaten
+344240,Dajmkrysset,Traditional,300,0.0,0,0.0,1.0,0.0,Tyresö flaten
+344244,Edens lustgård,Sport,750,0.0,0,1.0,0.0,0.0,Tyresö flaten
+385462,Flottstocken,Partially bolted,400,0.0,0,0.0,1.0,0.0,Tyresö flaten
+311107,Badkvigor,Sport,400,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+385463,The Butthole Surfers,Sport,700,0.0,0,1.0,0.0,0.0,Tyresö flaten
+385464,HiroChirac,Traditional,300,0.0,0,0.0,0.0,1.0,Tyresö flaten
+45911,Engel,Sport,700,0.0,1,1.0,0.0,0.0,Noret
+45910,Klavér,Sport,500,0.0,1,1.0,0.0,0.0,Noret
+45904,Ettan,Traditional,275,0.0,9,0.0,0.0,1.0,Noret
+97331,Släng dig i...,Sport,800,0.0,1,1.0,0.0,0.0,Skevik
+45902,Den ensamma borrbulten,Partially bolted,750,0.0,0,0.0,0.0,1.0,Noret
+369848,Coolingen,Sport,150,0.0,0,0.0,0.0,1.0,Flaten
+43012,Chalk it up,Sport,600,0.0,1,1.0,0.0,0.0,Noret
+216470,Rönnbär i solnedgång,Boulder,600,0.0,0,1.0,1.0,0.0,Harberget
+42357,Mondeo,Sport,600,0.0,1,0.0,1.0,0.0,Noret
+344209,Sprutlackerad,Sport,400,0.0,0,1.0,0.0,0.0,Tyresö flaten
+344208,Stalledrängen,Sport,600,0.0,0,1.0,0.0,0.0,Tyresö flaten
+344207,Bromsspåret,Sport,600,0.0,0,1.0,0.0,0.0,Tyresö flaten
+388791,Old man and the sea,Sport,1100,0.0,0,1.0,0.0,0.0,Fredriksvik
+386298,Storsprickan,Traditional,200,0.0,0,0.0,1.0,0.0,Solberget
+386299,Vänsterkanten,Traditional,300,0.0,0,0.0,0.0,1.0,Solberget
+386300,Valfrihet,Partially bolted,500,0.0,0,0.0,0.0,1.0,Solberget
+386301,Spårlös färdsel,Partially bolted,500,0.0,0,0.0,0.0,1.0,Solberget
+386303,Staffans variant,Traditional,300,0.0,0,0.0,0.0,1.0,Solberget
+45912,Bestraffe Mich,Sport,900,0.0,1,1.0,0.0,0.0,Noret
+306430,Scylla,DWS,550,0.0,0,1.0,0.0,0.0,Fredriksvik
+306431,Charybdis,DWS,650,0.0,0,1.0,0.0,0.0,Fredriksvik
+306432,Hydra,Sport,1000,0.0,0,1.0,0.0,0.0,Fredriksvik
+306433,En för alla,Sport,750,0.0,0,1.0,0.0,0.0,Fredriksvik
+306434,Njuta,Sport,950,0.0,0,1.0,0.0,0.0,Fredriksvik
+306435,Escape,Sport,600,0.0,0,1.0,0.0,0.0,Fredriksvik
+385869,Jag klättrar inte,Sport,600,0.0,0,1.0,1.0,0.0,Fredriksvik
+385870,Altair,Sport,300,0.0,0,0.0,1.0,0.0,Fredriksvik
+385871,Vega,Sport,700,0.0,0,0.0,1.0,0.0,Fredriksvik
+385872,Belatrix,Sport,600,0.0,0,0.0,1.0,0.0,Fredriksvik
+385873,Capella,Sport,400,0.0,0,0.0,1.0,0.0,Fredriksvik
+385874,Pollux,Sport,400,0.0,0,0.0,1.0,0.0,Fredriksvik
+385875,Castor,Sport,800,0.0,0,0.0,1.0,0.0,Fredriksvik
+385876,Rigel,Sport,350,0.0,0,0.0,1.0,0.0,Fredriksvik
+385877,Mira,Sport,350,0.0,0,0.0,1.0,0.0,Fredriksvik
+385878,Denab,Sport,400,0.0,0,0.0,1.0,0.0,Fredriksvik
+388790,Taniwha,Sport,1050,0.0,0,1.0,0.0,0.0,Fredriksvik
+311106,Fi,Sport,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+311108,Att angöra en brygga,Sport,380,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+388561,Let's dance,Traditional,450,0.0,0,0.0,1.0,0.0,Uddeuddberget
+378264,Nudisten,Partially bolted,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378247,Olles Sva,Sport,250,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378249,"Håll i, håll ut",Traditional,250,0.0,0,1.0,0.0,1.0,Nyckelviksberget
+378251,Billy Opel,Sport,300,0.0,0,1.0,0.0,1.0,Nyckelviksberget
+378253,Coronasafe,Sport,250,0.0,0,1.0,0.0,1.0,Nyckelviksberget
+378254,Social distans,Sport,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378256,Social distans direkt,Sport,600,0.0,0,1.0,0.0,1.0,Nyckelviksberget
+378257,Fjäderholmarna,Sport,100,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378258,Blåssippan,Sport,100,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378260,Förlängda Armen,Sport,500,0.0,0,1.0,0.0,1.0,Nyckelviksberget
+378261,Hundkex,Sport,450,0.0,0,1.0,0.0,1.0,Nyckelviksberget
+378263,Brukshunden,Sport,350,0.0,0,1.0,0.0,1.0,Nyckelviksberget
+378265,Sjömanstraversen,Partially bolted,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+311109,Slängd överbord,Sport,550,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+369849,Tokiga gamla pappa,Sport,100,0.0,0,0.0,0.0,1.0,Flaten
+373754,Last Round Last Minute,Sport,950,0.0,0,1.0,0.0,0.0,Flaten
+56736,Fader Berg,Traditional,300,0.0,2,1.0,1.0,0.0,Skevik
+41820,Bestialia,Sport,700,0.0,1,1.0,0.0,0.0,Noret
+56735,Tänk,Sport,600,0.0,1,1.0,0.0,0.0,Skevik
+56733,Solero,Sport,380,0.0,24,0.0,0.0,1.0,Skevik
+44935,Reach Boys,Partially bolted,850,0.0,1,1.0,0.0,0.0,Skevik
+28695,Megapuls,Partially bolted,750,0.0,0,1.0,1.0,0.0,Skevik
+222858,Firren,Sport,450,0.0,11,0.0,1.0,0.0,Saharaväggen
+41960,Kraftmaskin,Sport,800,0.0,3,1.0,0.0,0.0,Skevik
+278634,I tid är leden,Sport,500,0.0,4,1.0,1.0,0.0,Saharaväggen
+378246,Sjötullen,Sport,250,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378245,Knapens hål,Sport,250,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378244,Bard core,Sport,200,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378243,Galären,Sport,100,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+311110,Ra,Sport,380,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+311111,Dyning,Sport,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+311113,Baklås,Partially bolted,400,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378221,Statsepidemiologen,Sport,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378222,Lotsen,Sport,200,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378223,Jungman Andersson,Traditional,100,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378224,Jipp,Sport,500,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378226,Kuling,Sport,350,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378228,Snedseglaren,Sport,250,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378229,Transporten,Partially bolted,100,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378230,Sjörapporten,Partially bolted,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378231,Väderleken,Partially bolted,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378232,Fyren,Sport,500,0.0,0,0.0,1.0,1.0,Nyckelviksberget
+378233,Värtan,Sport,350,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378234,Saltsjön,Sport,350,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378235,Vattentrappan,Sport,350,0.0,0,0.0,1.0,1.0,Nyckelviksberget
+378236,Wasserrillen,Sport,250,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378237,Kon-Tiki,Sport,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378238,Röda gubben,Sport,350,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378239,Isället för Lidingö runt,Partially bolted,350,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378240,Nöten,Sport,500,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378241,Busters Sva,Sport,300,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+378242,Förlängning av Nöten och Busters Sva,Sport,100,0.0,0,0.0,0.0,1.0,Nyckelviksberget
+386297,Schuckert stuff förvrider verklighetens fluff,Sport,650,0.0,0,1.0,0.0,0.0,Solberget
+386296,Trotsa din chef idag,Sport,650,0.0,0,1.0,0.0,0.0,Solberget
+386295,Svalkan,Partially bolted,250,0.0,0,0.0,0.0,1.0,Solberget
+384311,Branta fingrar,Partially bolted,750,0.0,0,0.0,1.0,0.0,Gritstoneberget
+384095,Sakral dermoid,Traditional,350,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384098,Fjärt i kosmos,Traditional,100,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384103,Tummeliten,Sport,500,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384137,Skrik som en gris,Traditional,400,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384138,Massmossa,Traditional,400,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384139,Mental istid,Traditional,500,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384140,Mental istid (variant),Traditional,500,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384285,Stormvarning,Traditional,500,0.0,0,1.0,1.0,0.0,Gritstoneberget
+384288,Sprickan,Traditional,800,0.0,0,1.0,0.0,0.0,Gritstoneberget
+384300,Frida,Traditional,250,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384301,Olovlig körning,Traditional,350,0.0,0,0.0,1.0,0.0,Gritstoneberget
+384312,Leroy,Traditional,550,0.0,0,0.0,1.0,0.0,Gritstoneberget
+386287,Brett är rätt,Traditional,350,0.0,0,0.0,1.0,0.0,Solberget
+384313,Ekbusken,Traditional,200,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384315,Struggel och strul,Traditional,400,0.0,0,0.0,0.0,1.0,Gritstoneberget
+384344,Scenbuddism,Traditional,300,0.0,0,0.0,1.0,1.0,Gritstoneberget
+384345,Toffelhjälten,Traditional,600,0.0,0,0.0,1.0,0.0,Gritstoneberget
+384346,Moderna tider,Traditional,450,0.0,0,0.0,1.0,0.0,Gritstoneberget
+384347,Stånk och stön,Traditional,400,0.0,0,0.0,1.0,0.0,Gritstoneberget
+45933,Fax,Sport,600,0.0,0,1.0,0.0,0.0,Noret
+68716,Hugget som stucket,Traditional,350,0.0,0,0.0,0.0,1.0,Klövberget
+68717,Sans nomine,Traditional,380,0.0,3,0.0,1.0,0.0,Klövberget
+68718,Skamvägen,Traditional,380,0.0,0,0.0,1.0,0.0,Klövberget
+309360,Bolero,Sport,400,0.0,0,0.0,0.0,1.0,Skevik
+45934,Nya vågen,Sport,800,0.0,0,1.0,0.0,0.0,Noret
+45935,Kärleken väntar,Sport,900,0.0,0,1.0,0.0,0.0,Noret
+45936,Långnäsa,Sport,950,0.0,0,1.0,0.0,0.0,Noret
+90557,Björntjänst,Traditional,400,0.0,1,0.0,0.0,1.0,Gritstoneberget
+388568,Bicepsfest,Sport,950,0.0,0,1.0,0.0,0.0,Uddeuddberget
+388598,Valfläsk,Traditional,600,0.0,0,0.0,1.0,0.0,Uddeuddberget
+388600,Hårda killar dansar inte,Partially bolted,600,0.0,0,0.0,1.0,0.0,Uddeuddberget
+388601,Påskägget,Traditional,500,0.0,0,0.0,1.0,0.0,Uddeuddberget
+389296,Oklar led,Traditional,450,0.0,0,1.0,0.0,0.0,Uddeuddberget
+391014,Groundhog Day,Sport,350,0.0,0,0.0,0.0,1.0,Uddeuddberget
+391015,Vårsol och snöfall,Traditional,400,0.0,0,0.0,1.0,1.0,Uddeuddberget
+392719,Jesus led (Påsken är här),Traditional,400,0.0,0,0.0,1.0,0.0,Uddeuddberget
+43141,Newtons första,Partially bolted,500,0.0,1,1.0,1.0,0.0,Gritstoneberget
+43142,Ballerina,Partially bolted,550,0.0,1,0.0,0.0,1.0,Gritstoneberget
+45948,Hey Baby,Sport,950,0.0,0,1.0,0.0,0.0,Noret
+45943,Talleken,Traditional,300,0.0,1,0.0,0.0,1.0,Noret
+45942,Spräckliga bandet,Traditional,400,0.0,0,0.0,0.0,1.0,Noret
+309371,Delphi,Traditional,700,0.0,0,1.0,0.0,0.0,Skevik
+309368,Irrbloss direktinsteg,Partially bolted,650,0.0,0,0.0,1.0,0.0,Skevik
+47221,Urkki,Traditional,450,0.0,0,0.0,1.0,0.0,Gritstoneberget
+309366,Irrbloss,Partially bolted,700,0.0,0,0.0,1.0,0.0,Skevik
+309361,Melphi,Sport,800,0.0,0,1.0,0.0,0.0,Skevik
+45941,Eldorado extras,Partially bolted,850,0.0,0,1.0,1.0,1.0,Noret
+389394,H.M.S. Ulysses höger,Sport,1000,0.0,0,1.0,0.0,0.0,Träskberget
+90552,Skorpionen,Traditional,350,0.0,0,0.0,1.0,0.0,Gritstoneberget
+45938,Maktbalans,Partially bolted,450,0.0,0,1.0,1.0,1.0,Noret
+45937,Lösa dromedarer,Sport,850,0.0,0,1.0,0.0,0.0,Noret
+68721,Drömmen om hiltin,Partially bolted,600,0.0,0,0.0,1.0,0.0,Klövberget
+68722,Rampljus,Traditional,450,0.0,0,0.0,1.0,0.0,Klövberget
+68723,Feberkurvan,Traditional,300,0.0,0,0.0,1.0,0.0,Klövberget
+369609,Tuffa tuffingars klubb,Sport,150,0.0,0,0.0,0.0,1.0,Flaten
+362688,Fly direkt,Sport,950,0.0,0,1.0,1.0,0.0,Brakmaren
+371822,No Frames,Sport,900,0.0,0,1.0,0.0,0.0,Brakmaren
+369610,Prinsessans trappa,Sport,100,0.0,0,0.0,0.0,1.0,Flaten
+61160,Högerkanten,Sport,380,0.0,8,0.0,0.0,1.0,Solberget
+45915,Tsatsiki,Sport,550,0.0,2,1.0,0.0,0.0,Noret
+147593,Vildmannen,Sport,1050,0.0,1,1.0,0.0,0.0,Skevik
+75572,Döda räven,Traditional,300,0.0,0,0.0,1.0,0.0,Solberget
+75573,Absolut,Traditional,450,0.0,1,0.0,1.0,0.0,Solberget
+75574,Odöpt,Traditional,600,0.0,0,1.0,0.0,0.0,Solberget
+75575,Skogshuggar Lasse,Partially bolted,550,0.0,0,0.0,1.0,0.0,Solberget
+75576,Dritings,Partially bolted,650,0.0,0,0.0,1.0,0.0,Solberget
+75577,Utrolig skallebank,Sport,800,0.0,0,0.0,1.0,0.0,Solberget
+45914,Du hast mich,Sport,950,0.0,1,1.0,0.0,0.0,Noret
+75581,Det visar sig,Traditional,400,0.0,0,0.0,1.0,0.0,Solberget
+45913,Buck Dich,Sport,950,0.0,1,1.0,0.0,0.0,Noret
+75583,Stove legs,Traditional,400,0.0,0,0.0,1.0,0.0,Solberget
+75584,Blockrännan,Traditional,550,0.0,0,0.0,0.0,1.0,Solberget
+75585,Spetsen orginal,Traditional,450,0.0,1,0.0,1.0,0.0,Solberget
+75586,Spetsen,Partially bolted,500,0.0,0,1.0,0.0,0.0,Solberget
+75587,Månskäran,Traditional,550,0.0,0,0.0,1.0,0.0,Solberget
+369846,En världsomklättring över blocket,Sport,100,0.0,0,0.0,0.0,1.0,Flaten
+125755,Smultronleden,Traditional,200,0.0,2,0.0,0.0,1.0,Solberget
+174390,route 66,Traditional,450,0.0,1,0.0,0.0,1.0,Solberget
+352881,Knep och knåp (to second anchor),Sport,900,0.0,0,1.0,0.0,0.0,Brakmaren
+259991,Knep och knåp direkt,Sport,850,0.0,0,1.0,0.0,0.0,Brakmaren
+309340,Rivstart,Sport,950,0.0,0,1.0,0.0,0.0,Skevik
+259990,Berits kiosk,Sport,900,0.0,0,1.0,0.0,0.0,Brakmaren
+90252,Doseths spricka/Massihs utsteg,Traditional,800,0.0,0,0.0,1.0,0.0,Klövberget
+289804,Det långa klivet,Sport,1050,0.0,1,1.0,0.0,0.0,Skevik
+90254,Ampere,Traditional,400,0.0,0,0.0,0.0,1.0,Klövberget
+90267,Den långa flykten,Traditional,450,0.0,0,0.0,0.0,1.0,Klövberget
+90268,The final cat,Traditional,650,0.0,1,1.0,0.0,0.0,Klövberget
+90270,Fatal kolaps,Traditional,300,0.0,0,0.0,1.0,1.0,Klövberget
+90271,Det långa klivet,Traditional,450,0.0,0,0.0,0.0,1.0,Klövberget
+367367,Rektal Prolaps,Traditional,450,0.0,0,0.0,1.0,1.0,Klövberget
+384641,Den spetsige tysken,Traditional,500,0.0,0,0.0,1.0,0.0,Klövberget
+384751,Lokförarens laxermedel,Traditional,350,0.0,0,1.0,0.0,1.0,Klövberget
+384795,Över huvud taget,Traditional,350,0.0,0,1.0,1.0,0.0,Klövberget
+384799,Under låret taget,Traditional,450,0.0,0,0.0,1.0,0.0,Klövberget
+51385,500,Sport,900,0.0,3,1.0,0.0,0.0,Brakmaren
+369608,Tro på dig själv,Sport,100,0.0,0,0.0,0.0,1.0,Flaten
+51388,Linjär Succé,Sport,700,0.0,0,1.0,0.0,0.0,Brakmaren
+45918,Terrier,Partially bolted,600,0.0,0,0.0,0.0,1.0,Noret
+51391,Ägget är löst,Sport,700,0.0,0,1.0,0.0,0.0,Brakmaren
+259931,Mer eller mindre,Sport,700,0.0,0,1.0,0.0,0.0,Brakmaren
+259971,Bakom trädet,Sport,850,0.0,0,1.0,0.0,0.0,Brakmaren
+259981,Upp och ner,Sport,1000,0.0,0,1.0,0.0,0.0,Brakmaren
+259982,Fly,Sport,900,0.0,0,1.0,0.0,0.0,Brakmaren
+160395,Bengt Hanssons treakamin,Traditional,300,0.0,3,0.0,1.0,0.0,Skevik
+259988,No name,Sport,950,0.0,0,1.0,0.0,0.0,Brakmaren
+389564,Sömmen,Traditional,450,0.0,0,0.0,0.0,1.0,Träskberget
+334168,Det var då det,Sport,900,0.0,0,1.0,0.0,0.0,Noret
+389393,H.M.S. Ulysses vänster,Sport,950,0.0,0,1.0,0.0,0.0,Träskberget
+254112,Sommar utan slut,Traditional,500,0.0,1,0.0,1.0,0.0,Dyviksudd
+193936,"Fingerkroken, variant",Traditional,300,0.0,0,0.0,0.0,1.0,Dyviksudd
+193937,Marillion,Sport,950,0.0,0,1.0,0.0,1.0,Dyviksudd
+214062,Ingemars kamin,Traditional,450,0.0,0,0.0,1.0,0.0,Dyviksudd
+214063,Stentrick,Traditional,400,0.0,0,0.0,1.0,0.0,Dyviksudd
+328742,Ramaskri,Traditional,500,0.0,0,1.0,0.0,0.0,Sjötorpsberget
+323018,Neanderthal,Traditional,400,0.0,0,1.0,1.0,0.0,Sjötorpsberget
+226446,Snutslakt,Traditional,450,0.0,0,1.0,0.0,0.0,Dyviksudd
+229269,Prima materia,Sport,700,0.0,0,1.0,0.0,0.0,Dyviksudd
+229270,Oanad publik,Partially bolted,650,0.0,0,1.0,0.0,0.0,Dyviksudd
+323015,Midsommardansen,Traditional,150,0.0,0,0.0,0.0,1.0,Sjötorpsberget
+254149,Little Britain,Traditional,700,0.0,0,0.0,1.0,0.0,Dyviksudd
+193934,Alpinisten,Traditional,500,0.0,0,0.0,0.0,1.0,Dyviksudd
+254150,Imse vimse spindel,Traditional,400,0.0,0,0.0,1.0,0.0,Dyviksudd
+254151,"Crank, catch or disappear",Traditional,600,0.0,0,0.0,1.0,0.0,Dyviksudd
+254152,Avskaffa paragraf fetma,Traditional,500,0.0,0,0.0,0.0,1.0,Dyviksudd
+254153,Djungelboken,Traditional,400,0.0,0,0.0,1.0,0.0,Dyviksudd
+254154,U2,Traditional,400,0.0,0,0.0,1.0,1.0,Dyviksudd
+256015,Dr Johanssons menisktest,Sport,550,0.0,6,0.0,1.0,1.0,Dyviksudd
+256016,Fackgäss,Sport,500,0.0,5,1.0,1.0,0.0,Dyviksudd
+296091,Branta svaet / S-sprickan,Traditional,300,0.0,1,0.0,1.0,0.0,Sjötorpsberget
+57082,Tweak,Sport,900,0.0,0,1.0,0.0,0.0,Flaten
+97575,Omega 3,Partially bolted,500,0.0,1,0.0,1.0,0.0,Sjötorpsberget
+193935,Fingerkroken,Traditional,450,0.0,0,0.0,0.0,1.0,Dyviksudd
+193933,Vänsterprassel,Traditional,400,0.0,0,0.0,1.0,1.0,Dyviksudd
+97572,Flotter Otto,Partially bolted,600,0.0,0,1.0,0.0,0.0,Sjötorpsberget
+148111,Med kritpåsen i bakluckan,Partially bolted,750,0.0,0,1.0,1.0,1.0,Dyviksudd
+29434,Tina,Sport,700,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+43006,Bidrags Jesus (min bäste vän),Partially bolted,600,0.0,1,0.0,1.0,1.0,Dyviksudd
+43272,Kokoskorven,Sport,550,0.0,3,0.0,0.0,1.0,Dyviksudd
+29433,Stålmormor,Sport,800,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+29432,Den röda volvon,Sport,1000,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+58302,99 ballonger,Traditional,800,0.0,1,0.0,1.0,0.0,Dyviksudd
+29431,Slå på turbon,Sport,1000,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+29430,Hoppla,Sport,700,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+29428,Idefix,Sport,950,0.0,2,1.0,0.0,0.0,Nacka Kvarn
+148109,Ut i det fria,Partially bolted,800,0.0,0,1.0,0.0,0.0,Dyviksudd
+29426,+100,Sport,1050,0.0,1,1.0,0.0,0.0,Nacka Kvarn
+29412,Testpatrullen,Sport,550,0.0,2,1.0,0.0,0.0,Nacka Kvarn
+29424,S.F.W. (So fucking what),Sport,1000,0.0,1,1.0,0.0,0.0,Nacka Kvarn
+29423,100% dementi,Sport,700,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+29414,Sidewalk,Traditional,300,0.0,0,0.0,1.0,0.0,Nacka Kvarn
+193923,Gravitera mera,Sport,700,0.0,1,1.0,0.0,0.0,Dyviksudd
+193924,100 grader,Traditional,600,0.0,0,1.0,1.0,0.0,Dyviksudd
+193926,Zanzibar direkt,Sport,600,0.0,0,1.0,1.0,0.0,Dyviksudd
+193927,Zanzibar,Partially bolted,750,0.0,0,1.0,1.0,0.0,Dyviksudd
+193928,Laybackhörnet,Traditional,450,0.0,0,0.0,1.0,0.0,Dyviksudd
+193929,American flyer,Partially bolted,450,0.0,1,0.0,1.0,0.0,Dyviksudd
+193931,Nageltrånget,Traditional,450,0.0,0,0.0,0.0,1.0,Dyviksudd
+97574,Kamindiedret,Traditional,380,0.0,2,0.0,0.0,1.0,Sjötorpsberget
+97571,Opti,Sport,700,0.0,0,1.0,0.0,0.0,Sjötorpsberget
+29436,Släpp,Sport,800,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+390762,Dr Mabuses hämd,Traditional,500,0.0,0,1.0,1.0,0.0,Dyviksudd
+359045,Till en god vän,Traditional,380,0.0,0,0.0,0.0,1.0,Dyviksudd
+359046,Äppelkaka,Traditional,450,0.0,0,1.0,1.0,0.0,Dyviksudd
+359047,Bad,Traditional,275,0.0,0,0.0,0.0,1.0,Dyviksudd
+359048,True romance,Traditional,600,0.0,0,0.0,0.0,1.0,Dyviksudd
+359049,Redo,Partially bolted,700,0.0,0,0.0,0.0,1.0,Dyviksudd
+390726,Apunkalypse,Traditional,450,0.0,0,0.0,0.0,1.0,Dyviksudd
+390727,Fingersprickan,Traditional,350,0.0,0,0.0,0.0,1.0,Dyviksudd
+390728,Kök,Traditional,350,0.0,0,0.0,0.0,1.0,Dyviksudd
+390760,På tidens brant,Traditional,650,0.0,0,0.0,1.0,0.0,Dyviksudd
+390761,Solkatt,Partially bolted,700,0.0,0,1.0,0.0,1.0,Dyviksudd
+390763,Navigare,Partially bolted,700,0.0,0,0.0,1.0,0.0,Dyviksudd
+359041,Minos,Traditional,500,0.0,0,1.0,1.0,0.0,Dyviksudd
+390764,Sly,Traditional,150,0.0,0,0.0,0.0,1.0,Dyviksudd
+390765,Pavane,Partially bolted,450,0.0,0,0.0,1.0,1.0,Dyviksudd
+390766,No more heroes,Sport,450,0.0,0,0.0,1.0,0.0,Dyviksudd
+390767,Early warning,Partially bolted,750,0.0,0,1.0,0.0,1.0,Dyviksudd
+390768,Pol,Partially bolted,600,0.0,0,0.0,1.0,0.0,Dyviksudd
+390769,Pot,Traditional,600,0.0,0,0.0,1.0,0.0,Dyviksudd
+390770,Besserwisser,Traditional,350,0.0,0,0.0,1.0,1.0,Dyviksudd
+390772,Namnlös dieder,Traditional,300,0.0,0,0.0,1.0,0.0,Dyviksudd
+390774,A-ha,Traditional,700,0.0,0,0.0,1.0,1.0,Dyviksudd
+390775,Admiral Hornblower,Partially bolted,750,0.0,0,1.0,0.0,0.0,Dyviksudd
+359042,Just ask,Traditional,300,0.0,0,0.0,0.0,1.0,Dyviksudd
+359040,Kamikaze,Traditional,500,0.0,0,0.0,1.0,1.0,Dyviksudd
+388881,Den breve Hugo förlängning,Sport,600,0.0,0,1.0,0.0,0.0,Örnberget
+358989,Club Piraya,Partially bolted,650,0.0,0,1.0,0.0,0.0,Dyviksudd
+352366,Dubbeldäckare (första ankaret),Sport,400,0.0,0,0.0,1.0,1.0,Örnberget
+346883,Blood Sport,Sport,1000,0.0,0,1.0,0.0,0.0,Örnberget
+302575,Möjliga världar,Traditional,550,0.0,1,0.0,1.0,0.0,Örnberget
+320627,Gyllene tider,Partially bolted,700,0.0,0,0.0,1.0,0.0,Dyviksudd
+320629,Sällskapsresan,Traditional,300,0.0,0,0.0,0.0,1.0,Dyviksudd
+340632,Lockdown,Sport,950,0.0,0,1.0,0.0,0.0,Dyviksudd
+340633,Post Pinus,Partially bolted,800,0.0,0,1.0,1.0,0.0,Dyviksudd
+345695,Dyrbar Fritid,Traditional,450,0.0,0,0.0,0.0,1.0,Dyviksudd
+354836,Tights,Partially bolted,450,0.0,0,0.0,0.0,1.0,Dyviksudd
+355237,Romans,Traditional,500,0.0,0,0.0,0.0,1.0,Dyviksudd
+358990,Taklagsöl,Partially bolted,700,0.0,0,1.0,0.0,0.0,Dyviksudd
+359039,Sandinista,Partially bolted,600,0.0,0,0.0,1.0,0.0,Dyviksudd
+358993,Sir Mör,Partially bolted,900,0.0,0,1.0,0.0,0.0,Dyviksudd
+358997,Eternell,Partially bolted,700,0.0,0,1.0,0.0,1.0,Dyviksudd
+358998,Längtan,Traditional,450,0.0,0,1.0,0.0,1.0,Dyviksudd
+359001,Boren av behag,Sport,700,0.0,0,1.0,1.0,0.0,Dyviksudd
+359004,Kult,Partially bolted,750,0.0,0,1.0,0.0,1.0,Dyviksudd
+359017,Mina kulor - din haka,Partially bolted,850,0.0,0,1.0,0.0,1.0,Dyviksudd
+359018,Finn din stil,Sport,800,0.0,0,1.0,1.0,0.0,Dyviksudd
+359020,Clawfinger,Sport,900,0.0,0,1.0,0.0,0.0,Dyviksudd
+359034,Motorburen ungdom,Partially bolted,500,0.0,0,0.0,1.0,1.0,Dyviksudd
+359037,Brutal konfekt,Partially bolted,600,0.0,0,0.0,1.0,1.0,Dyviksudd
+29435,Blodigeln,Sport,800,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+29326,Kalkylerad fisk,Traditional,750,0.0,1,1.0,0.0,0.0,Dyviksudd
+389263,Sweet dreams,Partially bolted,400,0.0,0,0.0,1.0,0.0,Träskberget
+355045,Har du en mutter lös,Partially bolted,300,0.0,0,0.0,0.0,1.0,Beatelund
+57131,Pelles nya kläder,Sport,650,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+205323,Borsten Torsten,Sport,600,0.0,1,0.0,0.0,1.0,Beatelund
+351719,Skallran,Sport,275,0.0,0,0.0,0.0,1.0,Beatelund
+351720,Kafferep,Sport,400,0.0,0,0.0,1.0,1.0,Beatelund
+351721,Skölden,Sport,380,0.0,0,0.0,1.0,1.0,Beatelund
+355034,Claes boulder,Traditional,650,0.0,0,1.0,0.0,0.0,Beatelund
+355035,Putita de Noche,Traditional,600,0.0,0,0.0,0.0,1.0,Beatelund
+355039,Chulo,Traditional,275,0.0,0,0.0,0.0,1.0,Beatelund
+355043,Göra kor,Traditional,380,0.0,0,0.0,0.0,1.0,Beatelund
+355044,Frysta prinskorvar,Traditional,300,0.0,0,0.0,0.0,1.0,Beatelund
+355046,Inget att vara stolt över,Partially bolted,400,0.0,0,1.0,0.0,0.0,Beatelund
+123494,Kladdragg,Sport,450,0.0,1,0.0,0.0,1.0,Beatelund
+355047,Village People,Partially bolted,600,0.0,0,1.0,0.0,0.0,Beatelund
+355048,Djävulska Hyllor,Traditional,300,0.0,0,0.0,1.0,0.0,Beatelund
+355055,I will survive,Sport,750,0.0,0,1.0,0.0,0.0,Beatelund
+355056,Hårdhudade Hagberg,Traditional,380,0.0,0,0.0,0.0,1.0,Beatelund
+355057,The fin,Traditional,275,0.0,0,0.0,0.0,1.0,Beatelund
+355058,Minihångel,Traditional,150,0.0,0,0.0,0.0,1.0,Beatelund
+386472,Spring Break,Sport,950,0.0,0,1.0,0.0,0.0,Beatelund
+386473,Open project.,Sport,1100,0.0,0,1.0,0.0,0.0,Beatelund
+57122,Bullen,Sport,850,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+27380,Memento,Sport,400,0.0,4,0.0,1.0,0.0,Kyrkviksklippan
+123520,FTW,Sport,700,0.0,1,0.0,0.0,1.0,Beatelund
+57132,Gnällmåns,Sport,700,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+27382,Matt Adams catch-tur,Sport,950,0.0,0,1.0,0.0,0.0,Kyrkviksklippan
+338748,Maggan,Sport,850,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+26868,Jag vill ha ett moln,Partially bolted,800,0.0,0,1.0,0.0,1.0,Anneberg
+367052,Hans-Ola de Denbara,Sport,380,0.0,0,1.0,1.0,0.0,Ekstubbeberget
+26871,Bussen i nyllet,Sport,800,0.0,9,1.0,0.0,1.0,Anneberg
+26872,Sträck på dig,Sport,750,0.0,0,1.0,0.0,0.0,Anneberg
+26873,Smått och gott,Traditional,650,0.0,0,1.0,0.0,0.0,Anneberg
+26874,Onda ögat,Sport,1000,0.0,2,1.0,0.0,0.0,Anneberg
+366619,Hitta hålet,Sport,650,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+365527,Hans-Ola de Denbara,Sport,380,0.0,0,1.0,1.0,0.0,Ekstubbeberget
+353510,Myggdödarjojken,Sport,380,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+352472,Se på Far'n,Sport,750,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+29437,Gubben i berget,Sport,450,0.0,3,0.0,1.0,1.0,Beatelund
+99995,En möglig årgång,Traditional,400,0.0,1,0.0,0.0,1.0,Beatelund
+57060,Teknikens under,Sport,800,0.0,0,1.0,0.0,0.0,Flaten
+338747,Patriks gamla,Sport,850,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+338746,Högersväng,Sport,750,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+29441,Hej,Sport,800,0.0,1,1.0,0.0,0.0,Beatelund
+29442,Big bag boulder,Sport,750,0.0,4,1.0,0.0,0.0,Beatelund
+42048,Dubbla militärkallingar,Traditional,380,0.0,1,0.0,0.0,1.0,Beatelund
+42049,Bamsiga baguetter,Traditional,380,0.0,1,0.0,0.0,1.0,Beatelund
+135051,Dubbelhyllan,Traditional,450,0.0,0,0.0,1.0,0.0,Ekstubbeberget
+128074,Låg avkastning,Traditional,275,0.0,2,0.0,0.0,1.0,Ekstubbeberget
+57133,Olles skidfärd,Sport,700,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+57121,Haribo,Sport,800,0.0,0,1.0,0.0,0.0,Ekstubbeberget
+57120,Flaklös,Sport,900,0.0,3,1.0,0.0,0.0,Ekstubbeberget
+41104,Ligg lågt,Sport,750,0.0,6,1.0,0.0,0.0,Münchenbryggeriet
+97680,Mors dag,Sport,900,0.0,0,1.0,0.0,0.0,Münchenbryggeriet
+97686,Glattis,Sport,550,0.0,0,1.0,0.0,0.0,Münchenbryggeriet
+93195,Liten men fin,Traditional,200,0.0,8,0.0,0.0,1.0,Ekoberget
+97684,Nameless,Sport,380,0.0,6,1.0,0.0,0.0,Münchenbryggeriet
+97683,När börjar festen?,Sport,900,0.0,0,1.0,0.0,0.0,Münchenbryggeriet
+256141,Linkup. 100 år av Brown sugar,Sport,600,0.0,1,1.0,0.0,0.0,Nacka Kvarn
+97682,Flyt,Sport,950,0.0,0,1.0,0.0,0.0,Münchenbryggeriet
+51545,Dynga på,Sport,900,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+51544,Det här ska bli roligt,Sport,600,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+303515,Route #52,Traditional,100,0.0,0,0.0,0.0,1.0,Ekoberget
+97681,Batman,Sport,1050,0.0,0,1.0,0.0,0.0,Münchenbryggeriet
+41920,Stöt,Sport,1000,0.0,1,1.0,0.0,0.0,Münchenbryggeriet
+97690,Trappan,Sport,450,0.0,2,1.0,0.0,0.0,Münchenbryggeriet
+51543,Pungdjävul,Sport,850,0.0,0,1.0,0.0,0.0,Nacka Kvarn
+46216,Exhibitionisten,Sport,550,0.0,2,0.0,1.0,0.0,Kanalklippan
+46217,Kanalterror,Sport,800,0.0,0,1.0,1.0,0.0,Kanalklippan
+309376,Rampfeber,Sport,300,0.0,1,0.0,1.0,0.0,Kanalklippan
+309377,Klättring i Stockholm,Sport,380,0.0,0,0.0,1.0,0.0,Kanalklippan
+309584,Trygg-Hansa,Sport,380,0.0,1,1.0,1.0,1.0,Kanalklippan
+309609,Prime time,Sport,550,0.0,0,0.0,1.0,0.0,Kanalklippan
+339278,Publikfriarn (till toppen),Sport,400,0.0,0,0.0,1.0,1.0,Kanalklippan
+341692,Rocket pocket,Sport,500,0.0,0,1.0,1.0,0.0,Kanalklippan
+359490,Corona boat party gathering,Sport,450,0.0,0,0.0,1.0,0.0,Kanalklippan
+97688,Trappan direkt,Sport,500,0.0,1,1.0,0.0,0.0,Münchenbryggeriet
+49910,Vattenkammade snoken,Traditional,200,0.0,2,0.0,0.0,1.0,Ekoberget
+27385,Kamp,Sport,950,0.0,0,1.0,0.0,1.0,Kyrkviksklippan
+42280,Interkulturell,Sport,800,0.0,3,1.0,0.0,0.0,Ekstubbeberget
+27386,Raf,Sport,850,0.0,0,0.0,1.0,1.0,Kyrkviksklippan
+27387,Stolen,Sport,600,0.0,0,1.0,0.0,0.0,Kyrkviksklippan
+27388,Ur en annan synvinkel,Sport,850,0.0,0,1.0,0.0,0.0,Kyrkviksklippan
+27389,Ur dödlig synvinkel,Sport,700,0.0,0,1.0,0.0,0.0,Kyrkviksklippan
+27390,Matiné,Sport,500,0.0,0,1.0,0.0,0.0,Kyrkviksklippan
+351219,Rival,Sport,850,0.0,0,1.0,0.0,0.0,Kyrkviksklippan
+351220,Luna papa,Sport,850,0.0,0,1.0,0.0,0.0,Kyrkviksklippan
+57118,Busken,Traditional,300,0.0,4,0.0,0.0,1.0,Ekstubbeberget
+42430,Städpatrullen,Sport,500,0.0,2,1.0,0.0,0.0,Ekstubbeberget
+42281,Sug i,Sport,800,0.0,1,1.0,0.0,0.0,Ekstubbeberget
+57076,Helgonet,Sport,1050,0.0,5,1.0,0.0,0.0,Flaten
+49909,Wienerbrödvalsen,Traditional,380,0.0,0,0.0,0.0,1.0,Ekoberget
+300715,Koll på stången,Sport,600,0.0,0,1.0,0.0,0.0,Münchenbryggeriet
+157979,Frukto,Sport,380,0.0,2,0.0,1.0,0.0,Münchenbryggeriet
+126956,PK,Sport,600,0.0,0,1.0,0.0,0.0,Münchenbryggeriet
+126955,Diedro,Sport,500,0.0,3,1.0,0.0,0.0,Münchenbryggeriet
+126954,Hål i skrovet,Sport,1000,0.0,0,1.0,0.0,0.0,Münchenbryggeriet
+126952,"Hej och hå, crimpa på",Sport,950,0.0,0,1.0,0.0,0.0,Münchenbryggeriet
+49899,Cykla med musik,Partially bolted,450,0.0,0,0.0,0.0,1.0,Ekoberget
+57080,Antar,Sport,850,0.0,0,1.0,0.0,0.0,Flaten
+49903,Lögnen,Traditional,300,0.0,0,0.0,0.0,1.0,Ekoberget
+49908,Trollskott,Sport,700,0.0,1,1.0,0.0,1.0,Ekoberget
+390776,Fingerkrossen,Traditional,600,0.0,0,1.0,1.0,0.0,Dyviksudd
+390876,Död åt alla,Traditional,750,0.0,0,1.0,0.0,1.0,Dyviksudd
+390878,Straffa stygga sopsäckar,Traditional,550,0.0,0,0.0,1.0,0.0,Dyviksudd
+159393,Kristallnatten,Sport,650,0.0,0,1.0,0.0,0.0,Gåseborg
+181456,Hängpungen,Traditional,275,0.0,3,0.0,0.0,1.0,Gåseborg
+181455,Talk är tugnt,Sport,600,0.0,2,0.0,1.0,0.0,Gåseborg
+47312,Hälsoresan,Sport,600,0.0,12,1.0,0.0,0.0,Örnberget
+181412,Apelsinleden,Traditional,275,0.0,1,1.0,0.0,0.0,Gåseborg
+181411,"Hitler, kort men jävlig",Traditional,400,0.0,0,1.0,0.0,0.0,Gåseborg
+181410,Afasi,Partially bolted,450,0.0,0,0.0,1.0,1.0,Gåseborg
+96490,Lilla grisen,Traditional,450,0.0,0,0.0,0.0,1.0,Träskberget
+96491,Tryffelgodingen,Traditional,380,0.0,0,0.0,0.0,1.0,Träskberget
+96492,Thin mints,Traditional,700,0.0,0,0.0,1.0,1.0,Träskberget
+176006,Solnedgången höger,Traditional,300,0.0,2,0.0,1.0,0.0,Gåseborg
+136222,Grådaskig,Sport,450,0.0,1,0.0,0.0,1.0,Gåseborg
+181464,Kylslaget,Sport,650,0.0,0,0.0,1.0,0.0,Gåseborg
+98013,Assar,Traditional,800,0.0,0,1.0,0.0,0.0,Träskberget
+125897,Barnens brevlåda,Traditional,380,0.0,10,1.0,0.0,1.0,Gåseborg
+123517,Glader,Sport,650,0.0,3,0.0,0.0,1.0,Gåseborg
+98045,Sno från dom rika,Sport,700,0.0,0,1.0,0.0,0.0,Träskberget
+123499,Kloker,Sport,500,0.0,6,0.0,0.0,1.0,Gåseborg
+235974,Odöpt vänster,Sport,700,0.0,0,1.0,0.0,0.0,Träskberget
+235976,Odöpt näst längst höger,Sport,800,0.0,0,1.0,0.0,0.0,Träskberget
+235977,Odöpt höger,Sport,1000,0.0,0,1.0,0.0,0.0,Träskberget
+236927,Station Zebra,Sport,900,0.0,0,1.0,0.0,0.0,Träskberget
+237670,Odd Jobb Förlängning,Sport,1050,0.0,1,1.0,0.0,0.0,Träskberget
+181459,Helikopten kräks,Sport,850,0.0,0,0.0,1.0,0.0,Gåseborg
+146187,Namnlöst hörn,Traditional,275,0.0,2,0.0,1.0,0.0,Flaten
+237680,Maskulin,Sport,1050,0.0,1,1.0,0.0,0.0,Träskberget
+45996,Skärtorstags nöje,Traditional,200,0.0,1,0.0,0.0,1.0,Träskberget
+49963,Myggan,Sport,800,0.0,1,1.0,0.0,0.0,Örnberget
+133642,Move on,Sport,550,0.0,2,1.0,0.0,0.0,Flaten
+133950,Blåljus,Sport,200,0.0,2,0.0,0.0,1.0,Flaten
+45987,Jonas,Traditional,400,0.0,0,0.0,0.0,1.0,Träskberget
+133951,Hot rails to hell,Sport,950,0.0,0,1.0,0.0,0.0,Flaten
+359063,Socialt distanserad,Sport,450,0.0,0,0.0,1.0,1.0,Gåseborg
+322404,Butter,Sport,450,0.0,0,0.0,0.0,1.0,Gåseborg
+45992,Matfeta Kinder,Traditional,500,0.0,0,0.0,0.0,1.0,Träskberget
+322282,Trägubben,Traditional,450,0.0,0,0.0,0.0,1.0,Gåseborg
+45995,Myrstigen,Traditional,275,0.0,4,0.0,0.0,1.0,Träskberget
+46002,Odd job,Sport,1000,0.0,0,1.0,0.0,0.0,Träskberget
+46018,Örnnästet,Sport,900,0.0,0,1.0,0.0,0.0,Träskberget
+46007,Gun city,Sport,900,0.0,0,1.0,0.0,0.0,Träskberget
+322281,Snickerboa,Traditional,450,0.0,0,0.0,0.0,1.0,Gåseborg
+46010,Nionde Kompaniet,Sport,950,0.0,0,1.0,0.0,0.0,Träskberget
+46011,Dödens tåg,Sport,900,0.0,1,1.0,0.0,0.0,Träskberget
+46012,Festen vid grottorna,Sport,950,0.0,0,1.0,0.0,0.0,Träskberget
+322278,För desperata,Traditional,450,0.0,0,0.0,0.0,1.0,Gåseborg
+46014,Fruktan är mitt vapen,Sport,900,0.0,2,1.0,0.0,0.0,Träskberget
+46015,Åtta glas,Sport,900,0.0,0,1.0,0.0,0.0,Träskberget
+46016,Cirkus,Sport,900,0.0,0,1.0,0.0,0.0,Träskberget
+46017,Det Gyllene Mötet,Sport,1000,0.0,1,1.0,0.0,0.0,Träskberget
+237679,Adrenalin,Sport,1050,0.0,1,1.0,0.0,0.0,Träskberget
+353460,En vanlig dag,Sport,700,0.0,0,1.0,0.0,0.0,Noret
+390883,Jesus i betong,Partially bolted,650,0.0,0,0.0,0.0,1.0,Dyviksudd
+389227,Karamelli,Sport,950,0.0,0,1.0,0.0,0.0,Träskberget
+389204,En nyduschad,Aid,100,0.0,0,1.0,0.0,0.0,Träskberget
+389206,Stenhårde Kalle vänster,Sport,950,0.0,0,1.0,0.0,0.0,Träskberget
+389208,Chilly,Traditional,650,0.0,0,1.0,0.0,0.0,Träskberget
+389210,Valhalla,Sport,350,0.0,0,0.0,1.0,1.0,Träskberget
+389211,Stölpskottet,Partially bolted,500,0.0,0,0.0,0.0,1.0,Träskberget
+389212,Brakfischlet,Traditional,500,0.0,0,0.0,0.0,1.0,Träskberget
+389222,Tidsfördriv,Traditional,250,0.0,0,0.0,0.0,1.0,Träskberget
+389223,Lille man,Sport,950,0.0,0,1.0,0.0,0.0,Träskberget
+389224,Blötski,Sport,900,0.0,0,1.0,0.0,0.0,Träskberget
+389225,Supra,Sport,1000,0.0,0,1.0,0.0,0.0,Träskberget
+389228,Swampthing,Sport,950,0.0,0,1.0,0.0,0.0,Träskberget
+367368,Sprit och preparat,Traditional,450,0.0,0,0.0,0.0,1.0,Träskberget
+389237,Pappa jag vill gå på cirkus,Sport,1000,0.0,0,1.0,0.0,0.0,Träskberget
+389238,Bloefield,Sport,1000,0.0,0,1.0,0.0,0.0,Träskberget
+389239,Mickes led direktinsteg,Sport,950,0.0,0,1.0,0.0,0.0,Träskberget
+389245,Laglös,Partially bolted,600,0.0,0,0.0,1.0,0.0,Träskberget
+389246,Metal in the head,Partially bolted,550,0.0,0,1.0,0.0,0.0,Träskberget
+389247,Sista natten med Sodom,Sport,750,0.0,0,1.0,0.0,0.0,Träskberget
+389248,Dynamo,Sport,1000,0.0,0,1.0,0.0,0.0,Träskberget
+389253,Helvites döfull,Sport,700,0.0,0,1.0,0.0,0.0,Träskberget
+389259,Variationen,Partially bolted,450,0.0,0,0.0,1.0,0.0,Träskberget
+389260,Jojo i träsket,Traditional,450,0.0,0,0.0,1.0,0.0,Träskberget
+389201,Esbjörn,Traditional,400,0.0,0,0.0,0.0,1.0,Träskberget
+366790,Droppski,Sport,900,0.0,0,1.0,0.0,0.0,Träskberget
+348939,Ossian's Line (second anchor),Sport,950,0.0,0,1.0,0.0,0.0,Noret
+334662,Det var inte A2+,Traditional,300,0.0,0,0.0,0.0,1.0,Noret
+123497,3:e Riket,Sport,500,0.0,7,1.0,0.0,0.0,Gåseborg
+336899,Graveyard,Sport,300,0.0,0,0.0,0.0,1.0,Noret
+336898,"Mr, X",Sport,1000,0.0,0,1.0,0.0,0.0,Noret
+246672,Desillusion,Traditional,750,0.0,0,1.0,1.0,0.0,Träskberget
+336886,Talleken alternative start,Sport,300,0.0,0,0.0,1.0,0.0,Noret
+251016,Arytmi,Sport,1000,0.0,0,1.0,0.0,0.0,Träskberget
+336885,Mount Sandberg’s Family Affair,Traditional,200,0.0,0,0.0,0.0,1.0,Noret
+252342,Ambivalent,Traditional,200,0.0,2,0.0,0.0,1.0,Träskberget
+267154,Da Mornin' Cornah,Sport,400,0.0,6,0.0,0.0,1.0,Träskberget
+336582,Fist fighting son of a gun,Sport,1000,0.0,0,1.0,0.0,1.0,Noret
+289805,Scaramanga direkt,Sport,1050,0.0,1,1.0,0.0,0.0,Träskberget
+366056,Brantski,Sport,850,0.0,0,1.0,0.0,0.0,Träskberget
+334169,Leslie West,Sport,1000,0.0,0,1.0,0.0,0.0,Noret
+290581,Inför min dom,Traditional,700,0.0,0,1.0,0.0,0.0,Träskberget
+290582,Vi vet var ni bor,Partially bolted,700,0.0,0,1.0,0.0,0.0,Träskberget
+290583,Tuff match,Sport,800,0.0,0,1.0,0.0,0.0,Träskberget
+26867,Front page,Traditional,650,0.0,0,1.0,0.0,0.0,Anneberg
+293145,Tattoo You,Traditional,400,0.0,0,0.0,0.0,1.0,Träskberget
+301122,Some bizarre,Traditional,400,0.0,0,1.0,1.0,0.0,Träskberget
+242892,En galen natt,Sport,950,0.0,0,1.0,1.0,0.0,Noret
+351445,The Fluke,Traditional,400,0.0,0,0.0,0.0,1.0,Träskberget
+351447,Lucky Luke,Traditional,380,0.0,0,0.0,0.0,1.0,Träskberget
+133635,Grön drake,Sport,200,0.0,21,0.0,0.0,1.0,Flaten
+49911,Milou,Sport,900,0.0,2,1.0,0.0,0.0,Finnsvedsberget
+358609,Svarta Robin,Sport,600,0.0,0,0.0,1.0,0.0,Törnskogsklippan
+57103,EKG,Sport,950,0.0,0,1.0,0.0,0.0,Flaten
+45833,Savate,Traditional,650,0.0,0,1.0,0.0,0.0,Dödskalleberget
+45834,Loppet är kört,Traditional,750,0.0,0,0.0,1.0,0.0,Dödskalleberget
+79888,Sjuk,Partially bolted,600,0.0,0,0.0,0.0,1.0,Dödskalleberget
+57099,Double impact,Sport,900,0.0,0,1.0,0.0,0.0,Flaten
+57100,The William,Sport,950,0.0,0,1.0,0.0,0.0,Flaten
+57101,Ryggen,Sport,800,0.0,3,1.0,0.0,0.0,Flaten
+385137,Coma,Sport,800,0.0,0,1.0,1.0,0.0,Älvnäs
+230324,No monkey business,Traditional,380,0.0,0,0.0,0.0,1.0,Dödskalleberget
+309432,Inget för pygméer (To the anchor under the roof),Sport,550,0.0,0,0.0,0.0,1.0,Dödskalleberget
+311424,Mr Walker,Sport,900,0.0,0,1.0,0.0,0.0,Dödskalleberget
+283880,Thomas led,Sport,850,0.0,0,1.0,1.0,0.0,Älvnäs
+45825,Rex,Partially bolted,650,0.0,0,0.0,0.0,1.0,Dödskalleberget
+224894,Håll ut,Sport,800,0.0,0,1.0,0.0,0.0,Älvnäs
+222045,Speed,Sport,750,0.0,1,0.0,1.0,0.0,Älvnäs
+222043,Big trip,Sport,600,0.0,1,1.0,1.0,0.0,Älvnäs
+222042,Avdrift,Sport,600,0.0,1,1.0,1.0,0.0,Älvnäs
+160575,Hoppa in,Sport,400,0.0,16,0.0,0.0,1.0,Örnberget
+158240,Aquila,Sport,380,0.0,3,0.0,0.0,1.0,Örnberget
+39261,Ultra Bultra,Sport,400,0.0,10,1.0,1.0,0.0,Älvnäs
+39257,Sumpan city,Sport,500,0.0,4,1.0,0.0,0.0,Älvnäs
+300420,Equipage,Sport,700,0.0,0,1.0,0.0,0.0,Henriksdal
+300422,Aramis,Sport,850,0.0,0,1.0,0.0,0.0,Henriksdal
+45829,Den vassa eggen,Sport,800,0.0,0,1.0,0.0,0.0,Dödskalleberget
+45824,Magnus led,Traditional,550,0.0,0,0.0,0.0,1.0,Dödskalleberget
+49914,Lutande sprickan,Sport,800,0.0,0,1.0,0.0,0.0,Finnsvedsberget
+301395,Heading out from the highway,Sport,1050,0.0,0,1.0,1.0,0.0,Örnberget
+390885,Laser-Jesus,Partially bolted,700,0.0,0,0.0,0.0,1.0,Dyviksudd
+390910,Qvinna av idag,Traditional,500,0.0,0,0.0,1.0,0.0,Dyviksudd
+392027,Mantelhooken,Traditional,500,0.0,0,0.0,1.0,0.0,Dyviksudd
+392029,Mirage,Traditional,500,0.0,0,0.0,1.0,0.0,Dyviksudd
+392327,Grädde på moset,Partially bolted,500,0.0,0,0.0,1.0,0.0,Dyviksudd
+302404,En tårta passerar revy,Traditional,600,0.0,0,0.0,1.0,0.0,Örnberget
+301486,Nada,Sport,900,0.0,0,1.0,0.0,0.0,Örnberget
+301467,Möjlig omöjlighet utsteg,Sport,850,0.0,0,0.0,1.0,0.0,Örnberget
+301466,Pommesshit,Traditional,380,0.0,0,0.0,1.0,1.0,Örnberget
+301427,Utan tvekan direktinsteg,Sport,850,0.0,0,1.0,0.0,0.0,Örnberget
+301393,Variation,Sport,1000,0.0,0,1.0,0.0,0.0,Örnberget
+74681,Smutsrännan,Traditional,300,0.0,3,0.0,1.0,0.0,Sjötorpsberget
+301388,Dödlig uppsåt,Sport,1000,0.0,0,1.0,0.0,0.0,Örnberget
+301386,Breaking out right,Sport,1050,0.0,0,1.0,0.0,0.0,Örnberget
+301381,Sator direkt,Sport,1000,0.0,0,1.0,0.0,0.0,Örnberget
+41822,Utan Neuroleptika,Partially bolted,700,0.0,1,0.0,0.0,1.0,Dödskalleberget
+41823,Liten Psykiatrisk undersokning,Sport,700,0.0,1,0.0,0.0,1.0,Dödskalleberget
+301368,Sabbaton,Sport,950,0.0,0,1.0,0.0,0.0,Örnberget
+301366,Boulderinsteg,Sport,850,0.0,0,1.0,0.0,0.0,Örnberget
+57086,Banankontakt,Sport,850,0.0,0,1.0,0.0,0.0,Flaten
+57087,Monkey bar,Sport,850,0.0,0,1.0,0.0,0.0,Flaten
+45822,Trygghet utan grund,Partially bolted,380,0.0,3,0.0,0.0,1.0,Dödskalleberget
+19725,Schyssta vibbar,Sport,650,0.0,8,1.0,0.0,0.0,Älvnäs
+314359,Svajmast,Partially bolted,380,0.0,0,0.0,0.0,1.0,Finnsvedsberget
+314348,De som tog och log,Traditional,275,0.0,0,0.0,0.0,1.0,Finnsvedsberget
+62576,Grevens hörn,Sport,850,0.0,0,1.0,0.0,1.0,Örnberget
+63272,Rönnbär,Traditional,200,0.0,0,0.0,1.0,0.0,Törnskogsklippan
+63273,Trix,Traditional,300,0.0,0,0.0,1.0,0.0,Törnskogsklippan
+63274,Mix,Traditional,200,0.0,1,0.0,1.0,0.0,Törnskogsklippan
+63275,Fix,Traditional,200,0.0,1,0.0,1.0,0.0,Törnskogsklippan
+63276,Kix,Traditional,200,0.0,0,0.0,1.0,0.0,Törnskogsklippan
+63278,Den lilla ljungtuvan,Traditional,200,0.0,11,0.0,0.0,1.0,Törnskogsklippan
+65604,Heffaklumpen,Sport,800,0.0,2,1.0,0.0,0.0,Örnberget
+57117,Kalla kårar,Sport,650,0.0,0,1.0,0.0,0.0,Flaten
+49920,Törnrosa,Sport,1000,0.0,0,0.0,1.0,0.0,Finnsvedsberget
+65731,Emil i Tureberga,Sport,650,0.0,1,1.0,0.0,0.0,Törnskogsklippan
+82115,Timbuktu,Sport,700,0.0,7,0.0,1.0,0.0,Törnskogsklippan
+314345,Ljungens lag,Traditional,300,0.0,0,0.0,0.0,1.0,Finnsvedsberget
+101434,Salutogen åtgärd,Sport,200,0.0,19,0.0,0.0,1.0,Törnskogsklippan
+101436,Darwin Award,Sport,150,0.0,17,0.0,0.0,1.0,Törnskogsklippan
+108331,Svart eko,Sport,150,0.0,14,0.0,0.0,1.0,Törnskogsklippan
+119932,Narnia,Sport,150,0.0,4,0.0,0.0,1.0,Törnskogsklippan
+119933,Duscha är mesigt,Sport,300,0.0,11,1.0,0.0,0.0,Törnskogsklippan
+49918,Musslan,Sport,650,0.0,1,1.0,0.0,0.0,Finnsvedsberget
+49917,Badkrukan,Sport,800,0.0,0,1.0,0.0,0.0,Finnsvedsberget
+49915,Medvind,Sport,800,0.0,0,1.0,0.0,0.0,Finnsvedsberget
+134660,Bestigningen,Sport,400,0.0,1,1.0,0.0,0.0,Törnskogsklippan
+157746,Dieder och platta,Traditional,150,0.0,0,0.0,1.0,0.0,Törnskogsklippan
+63271,Björnbär,Traditional,300,0.0,0,0.0,1.0,0.0,Törnskogsklippan
+63270,Hjortron,Traditional,275,0.0,1,0.0,1.0,0.0,Törnskogsklippan
+63269,Blåbär,Traditional,200,0.0,0,0.0,1.0,0.0,Törnskogsklippan
+63268,Lingon,Traditional,200,0.0,0,0.0,1.0,0.0,Törnskogsklippan
+156514,Utbörding,Sport,200,0.0,1,0.0,0.0,1.0,Örnberget
+26344,Pipeline,Traditional,750,0.0,0,1.0,0.0,0.0,"Ekholmsnäs, Stockholm"
+41984,Ångande åderpåle,Partially bolted,700,0.0,1,1.0,0.0,0.0,"Ekholmsnäs, Stockholm"
+314180,Akta dig för spindeln,Sport,900,0.0,0,1.0,0.0,0.0,Finnsvedsberget
+310242,Metaforisk gratislunch,Sport,650,0.0,1,1.0,0.0,0.0,Finnsvedsberget
+57109,T-gul,Sport,650,0.0,1,1.0,0.0,0.0,Flaten
+152404,Salt Sill direkt,Sport,1050,0.0,1,1.0,0.0,0.0,Finnsvedsberget
+107891,The king of fucking everything,Sport,1200,0.0,0,1.0,0.0,0.0,Örnberget
+97334,Motvind,Sport,800,0.0,1,1.0,0.0,0.0,Finnsvedsberget
+246916,Porcelio scaber,Partially bolted,600,0.0,0,0.0,0.0,1.0,"Ekholmsnäs, Stockholm"
+246917,Galen häst,Traditional,400,0.0,0,0.0,0.0,1.0,"Ekholmsnäs, Stockholm"
+389058,Göta juck,Traditional,450,0.0,0,0.0,0.0,1.0,"Ekholmsnäs, Stockholm"
+389059,Strykjärn,Traditional,350,0.0,0,0.0,0.0,1.0,"Ekholmsnäs, Stockholm"
+390345,Tres amigos,Partially bolted,600,0.0,0,0.0,1.0,0.0,"Ekholmsnäs, Stockholm"
+390346,Pumpa fläns,Traditional,500,0.0,0,0.0,1.0,0.0,"Ekholmsnäs, Stockholm"
+51363,Högra leden,Sport,450,0.0,2,0.0,0.0,1.0,Finnsvedsberget
+57115,Hells bells,Sport,750,0.0,4,1.0,0.0,0.0,Flaten
+63264,Tallsprickan,Traditional,400,0.0,2,1.0,0.0,0.0,Törnskogsklippan
+63265,Lillbrorsan,Sport,600,0.0,6,1.0,0.0,0.0,Törnskogsklippan
+49922,Rock Johan,Sport,800,0.0,2,1.0,0.0,1.0,Finnsvedsberget
+63267,Nybörjar tur,Sport,380,0.0,12,1.0,0.0,0.0,Törnskogsklippan
+300417,Boss,Sport,750,0.0,1,1.0,0.0,0.0,Henriksdal
