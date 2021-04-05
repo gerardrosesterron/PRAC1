@@ -45,7 +45,7 @@ def print_grades():
     
 #Finalment definim una funció que permeti obtenir el conjunt de dades desitjat
 def my_routes(area, grade_min, grade_max):
-    url = 'https://27crags.com/areas/' + area + '/routelist?grade_min=' + grade_min + '&grade_max=' + grade_max + '&Sport=1'
+    url = 'https://27crags.com/areas/' + area + '/routelist?grade_min=' + grade_min + '&grade_max=' + grade_max
     r = requests.get(url)
     print(url)
 
