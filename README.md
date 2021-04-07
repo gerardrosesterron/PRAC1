@@ -16,4 +16,4 @@ Els fitxers que s'inclouen en el repositori són:
 * **codi/PRACTICA1.py**: el codi de llenguatge Python amb el qual s'ha realitzat.
 * **csv/result_area_315_grade_min100_grade_max1500.csv**: les dades extretes en format .csv.
 * **PRACTICA1.pdf**: un document PDF amb les respostes a les preguntes de l'encunciat de la pràctica.
-* **DOI de les dades en la web** https://zenodo.org**:** 4670438.
+* **DOI de les dades en la web** https://zenodo.org **:** 4670438.
