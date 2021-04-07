@@ -6,7 +6,7 @@ Aquest repositori correspon a la primera pràcitca de l'assignatura "Tipologia i
 
 ## Membres del grup
 
-Aquest treball ha estat realitzat per **Gerard Rosés Terrón** i per **Gisela Claret Tortajada**
+Aquest treball ha estat realitzat per **Gerard Rosés Terrón** i per **Gisela Claret Tortajada**.
 
 
 ## Descripció dels fitxers
@@ -14,5 +14,5 @@ Aquest treball ha estat realitzat per **Gerard Rosés Terrón** i per **Gisela C
 Els fitxers que s'inclouen en el repositori són:  
 
 * **PRAC1.pdf**: un document PDF amb les respostes a les preguntes de l'encunciat de la pràctica. 
-* **codi/PRACTICA1.py**: el codi de llenguatge Python amb el qual s'ha realitzat
-* **DOI de les dades: 4670438**
+* **codi/PRACTICA1.py**: el codi de llenguatge Python amb el qual s'ha realitzat.
+* **DOI de les dades:** 4670438.
