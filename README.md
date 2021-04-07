@@ -15,4 +15,4 @@ Els fitxers que s'inclouen en el repositori són:
 
 * **PRAC1.pdf**: un document PDF amb les respostes a les preguntes de l'encunciat de la pràctica. 
 * **codi/PRACTICA1.py**: el codi de llenguatge Python amb el qual s'ha realitzat
-* **DOI a les dades**
+* **DOI de les dades: 4670438**
